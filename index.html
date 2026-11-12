@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ITC Immunity Therapy Center — AI Assistant | PlacidWay</title>
+<style>
+  :root { --ink:#16222a; --muted:#5b6b76; --line:#e3e8ec; --bg:#f6f8f9; --brand:#0e7a6d; --brand-soft:#e6f4f1; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; background:var(--bg); color:var(--ink); }
+  header { background:#fff; border-bottom:1px solid var(--line); padding:16px 20px; }
+  header h1 { font-size:19px; margin:0 0 4px; }
+  header p { margin:0; color:var(--muted); font-size:13.5px; line-height:1.5; }
+  header a { color:var(--brand); }
+  main { max-width:760px; margin:0 auto; padding:16px 14px 24px; }
+  #chat { display:flex; flex-direction:column; gap:10px; min-height:300px; }
+  .msg { max-width:88%; padding:11px 14px; border-radius:14px; line-height:1.55; font-size:15px; white-space:pre-wrap; word-wrap:break-word; }
+  .msg.user { align-self:flex-end; background:var(--brand); color:#fff; border-bottom-right-radius:4px; }
+  .msg.bot { align-self:flex-start; background:#fff; border:1px solid var(--line); border-bottom-left-radius:4px; }
+  .msg.bot .sources { margin-top:8px; padding-top:8px; border-top:1px solid var(--line); font-size:12.5px; color:var(--muted); white-space:normal; }
+  .msg.bot .sources a { color:var(--brand); word-break:break-all; }
+  .msg.typing { color:var(--muted); font-style:italic; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0; }
+  .chip { border:1px solid var(--line); background:#fff; color:var(--ink); border-radius:999px; padding:8px 13px; font-size:13.5px; cursor:pointer; }
+  .chip:hover { border-color:var(--brand); color:var(--brand); }
+  form#composer { display:flex; gap:8px; margin-top:6px; }
+  #input { flex:1; padding:12px 14px; border:1px solid var(--line); border-radius:12px; font-size:15px; font-family:inherit; }
+  #input:focus { outline:2px solid var(--brand-soft); border-color:var(--brand); }
+  button.send { padding:0 20px; border:0; border-radius:12px; background:var(--brand); color:#fff; font-size:15px; cursor:pointer; }
+  button.send:disabled { opacity:.55; cursor:default; }
+  #lead { margin-top:18px; background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px; }
+  #lead h2 { font-size:16px; margin:0 0 6px; }
+  #lead p { margin:0 0 12px; color:var(--muted); font-size:13.5px; line-height:1.5; }
+  #lead .row { display:flex; gap:8px; flex-wrap:wrap; }
+  #lead input { flex:1; min-width:180px; padding:10px 12px; border:1px solid var(--line); border-radius:10px; font-size:14px; }
+  #lead button { padding:10px 18px; border:0; border-radius:10px; background:var(--brand); color:#fff; font-size:14px; cursor:pointer; }
+  #leadMsg { margin-top:10px; font-size:13.5px; }
+  footer { max-width:760px; margin:0 auto; padding:0 14px 28px; color:var(--muted); font-size:12.5px; line-height:1.6; }
+</style>
+</head>
+<body>
+<header>
+  <h1>ITC Immunity Therapy Center — AI Assistant</h1>
+  <p>Answers come only from the 7 PlacidWay pages about ITC in Tijuana, Mexico — clinic profile, treatment packages, videos, and prices.
+  Source: <a href="https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center" target="_blank" rel="noopener">placidway.com</a></p>
+</header>
+<main>
+  <div id="chat">
+    <div class="msg bot">Hello — I can answer questions about ITC Immunity Therapy Center in Tijuana: treatment packages, what is included, and prices. I only use information published on PlacidWay. If something is not listed there, I will tell you honestly and suggest contacting PlacidWay for a free quote.</div>
+  </div>
+  <div class="chips" id="chips">
+    <button class="chip">How much does the adenocarcinoma treatment cost?</button>
+    <button class="chip">What does the treatment package include?</button>
+    <button class="chip">What is the difference between the out-patient and in-patient programs?</button>
+    <button class="chip">What videos are available about the clinic?</button>
+  </div>
+  <form id="composer">
+    <input id="input" type="text" placeholder="Ask about ITC treatments, prices, or the clinic…" autocomplete="off" maxlength="2000">
+    <button class="send" type="submit">Send</button>
+  </form>
+
+  <section id="lead">
+    <h2>Get a free quote</h2>
+    <p>Leave your name and email and PlacidWay will contact you about a free quote for ITC treatment.</p>
+    <div class="row">
+      <input id="leadName" type="text" placeholder="Your name" maxlength="100">
+      <input id="leadEmail" type="email" placeholder="Your email">
+      <button id="leadBtn" type="button">Request free quote</button>
+    </div>
+    <div id="leadMsg"></div>
+  </section>
+</main>
+<footer>
+  General information only, not medical advice. Please consult your doctor before making any medical decision.
+  This assistant answers only from PlacidWay pages about ITC Immunity Therapy Center and cites its sources.
+</footer>
+
+<script>
+// ---- CONFIG: set this to the deployed Worker URL (after `wrangler deploy`) ----
+const WORKER_URL = "https://itc-chatbot.ardankmn.workers.dev";
+// ------------------------------------------------------------------------------
+const chatEl = document.getElementById("chat");
+const inputEl = document.getElementById("input");
+const history = []; // last turns, sent to the Worker so follow-ups work
+
+function addMsg(text, who, sources) {
+  const div = document.createElement("div");
+  div.className = "msg " + who;
+  div.textContent = text;
+  if (sources && sources.length) {
+    const s = document.createElement("div");
+    s.className = "sources";
+    s.textContent = "Sources: ";
+    sources.forEach((src, i) => {
+      if (i) s.appendChild(document.createTextNode(" · "));
+      const a = document.createElement("a");
+      a.href = src.url; a.target = "_blank"; a.rel = "noopener";
+      a.textContent = src.title;
+      s.appendChild(a);
+    });
+    div.appendChild(s);
+  }
+  chatEl.appendChild(div);
+  div.scrollIntoView({ behavior: "smooth", block: "end" });
+  return div;
+}
+
+async function ask(question) {
+  addMsg(question, "user");
+  history.push({ role: "user", content: question });
+  const typing = addMsg("Thinking…", "bot typing");
+  const sendBtn = document.querySelector("button.send");
+  sendBtn.disabled = true;
+  try {
+    const res = await fetch(WORKER_URL + "/api/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ message: question, history: history.slice(0, -1) }),
+    });
+    const data = await res.json();
+    typing.remove();
+    if (!res.ok) throw new Error(data.error || "Request failed.");
+    addMsg(data.answer, "bot", data.sources);
+    history.push({ role: "assistant", content: data.answer });
+  } catch (e) {
+    typing.remove();
+    addMsg("Sorry — something went wrong (" + e.message + "). Please try again.", "bot");
+    history.pop();
+  } finally {
+    sendBtn.disabled = false;
+    inputEl.focus();
+  }
+}
+
+document.getElementById("composer").addEventListener("submit", (e) => {
+  e.preventDefault();
+  const q = inputEl.value.trim();
+  if (!q) return;
+  inputEl.value = "";
+  ask(q);
+});
+document.getElementById("chips").addEventListener("click", (e) => {
+  if (e.target.classList.contains("chip")) ask(e.target.textContent);
+});
+
+document.getElementById("leadBtn").addEventListener("click", async () => {
+  const name = document.getElementById("leadName").value.trim();
+  const email = document.getElementById("leadEmail").value.trim();
+  const msgEl = document.getElementById("leadMsg");
+  msgEl.textContent = "";
+  try {
+    const res = await fetch(WORKER_URL + "/api/lead", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ name, email }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Request failed.");
+    msgEl.textContent = data.message;
+    msgEl.style.color = "var(--brand)";
+  } catch (e) {
+    msgEl.textContent = e.message;
+    msgEl.style.color = "#b3261e";
+  }
+});
+</script>
+</body>
+</html>

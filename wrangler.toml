@@ -1,0 +1,20 @@
+name = "itc-chatbot"
+main = "worker/worker.js"
+compatibility_date = "2026-11-12"
+workers_dev = true
+
+# DeepSeek key is a secret, never in this file:
+#   wrangler secret put DEEPSEEK_API_KEY
+
+# Restrict the chat API to the GitHub Pages site:
+[vars]
+ALLOWED_ORIGIN = "https://ardanhui.github.io"
+
+# KV namespaces for lead capture (LEADS_KV) and unanswered-question logging
+# (LOG_KV), created via the API on 12 Nov 2026:
+[[kv_namespaces]]
+binding = "LEADS_KV"
+id = "1966e2a454cf41cbb9e14100c6a03f6d"
+[[kv_namespaces]]
+binding = "LOG_KV"
+id = "299962853a9c451d8157726f3b07f4af"

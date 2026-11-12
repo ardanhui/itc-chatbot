@@ -1,0 +1,1 @@
+{"name":"itc-chatbot","private":true,"scripts":{"test:e2e":"python3 test/test_e2e.py","test:retrieval":"node test/test_retrieval.mjs"},"type":"module"}

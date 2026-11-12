@@ -1,0 +1,1447 @@
+{
+ "meta": {
+  "name": "PlacidWay ITC chatbot knowledge base",
+  "fetched_at_utc": "2026-11-12T04:19:54Z",
+  "source_count": 7,
+  "chunk_count": 173,
+  "chunk_max_words": 400,
+  "crawl": "robots.txt Allow: / for User-agent *, Crawl-delay 3, 1 req/3s, UA PlacidWay-Chatbot-Assessment/1.0"
+ },
+ "sources": [
+  {
+   "id": "profile",
+   "type": "Clinic profile",
+   "url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "chunks": 37
+  },
+  {
+   "id": "package-adenocarcinoma",
+   "type": "Treatment package",
+   "url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "chunks": 22
+  },
+  {
+   "id": "package-adrenal",
+   "type": "Treatment package",
+   "url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "chunks": 22
+  },
+  {
+   "id": "package-anal",
+   "type": "Treatment package",
+   "url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "title": "Alternative Anal Cancer Treatment in Tijuana",
+   "chunks": 22
+  },
+  {
+   "id": "videos",
+   "type": "Clinic videos",
+   "url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "chunks": 13
+  },
+  {
+   "id": "price-list",
+   "type": "Price list",
+   "url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "chunks": 6
+  },
+  {
+   "id": "price-comparison",
+   "type": "Price comparison",
+   "url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "chunks": 51
+  }
+ ],
+ "chunks": [
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Key facts (structured data)",
+   "text": "Name: ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana; PlacidWay; PlacidWay Medical Tourism; Price range: $18995; Telephone: +13035003821; +18882966664; Address: PostalAddress, Tijuana, Blvd. Padre Kino 10133, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C., Mexico, MX"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Request a video call",
+   "text": "Select time Select date Select time Select time Select Time zone"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Confirm Your Virtual Consultation",
+   "text": "Date: 2024-11-03 Time: 15:30:00 Appointment Type: Video Phone Profile Details Treatments Qualifications Testimonials Awards Destination Reviews"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Alternative Cancer Treatment at ITC Immunity Therapy Center",
+   "text": "Navigating a cancer diagnosis can be overwhelming, prompting many individuals to explore innovative care pathways beyond standard protocols. Seeking Alternative Cancer Treatment in Tijuana, Mexico allows individuals to access customized medical modalities designed to stimulate the immune system and target malignant cells. For individuals researching a cancer treatment clinic abroad, ITC provides compassionate, evidence-informed medical programs tailored to each individual's unique biological profile, medical history, and overall stage of diagnosis."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Request a Consultation With ITC Immunity Therapy Center",
+   "text": "Share your medical information and receive guidance about available treatment options. Contact ITC for Consultation"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "About ITC Immunity Therapy Center",
+   "text": "Founded by Dr. Carlos Bautista, ITC - Immunity Therapy Center has established itself as a center focused on individualized care. Dr. Carlos Bautista brings decades of dedicated clinical research and medical leadership to the facility, prioritizing patient dignity, individualized care, and holistic biological preservation. Located in Tijuana, Mexico—just minutes across the U.S. border—the center delivers progressive care pathways to international patients who are searching for alternative cancer treatment abroad in a modern, supportive medical setting. Customized Individualized Medical Protocols Dr. Carlos Bautista Founder & Medical Leadership Holistic Care Immune System Activation & Support"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "How the Treatment Approach Works",
+   "text": "Understanding how alternative cancer treatment works helps individuals navigate their healthcare options with clarity and confidence. At the core of the center's philosophy is immunity therapy cancer treatment, which combines therapies intended to support natural defenses while targeting malignant cells. Initial Medical Review: Patients submit prior diagnosis reports, imaging results, blood tests, and medical history for detailed physician evaluation. Individual Treatment Planning: A specialized care pathway is created based on the diagnosis, tumor location, biological health condition, and treatment goals. Treatment Explanation: Physicians explain the objective of each therapy—such as laser therapy, hyperthermia, or biomagnetic therapy—ensuring patients understand the process and expected benefits. Medical Monitoring: Daily clinical assessments and periodic blood tests track treatment response and manage side effects in real time. Follow-Up Support: Post-treatment protocols, lifestyle advice, and continued communication guidance are provided for long-term recovery after returning home. Coordination With Existing Doctors: Patients are encouraged to share medical updates with their home healthcare providers to maintain seamless medical care."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Discuss Your Cancer Treatment Options",
+   "text": "Contact ITC Immunity Therapy Center to learn what information is needed for a personalized medical review. Speak With a Specialist Today"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Treatment Eligibility and Patient Assessment",
+   "text": "Evaluating eligibility for an integrative cancer treatment program involves a thorough review of medical records by qualified physicians. Candidacy depends on factors such as cancer type, stage, organ functionality, previous conventional treatments (chemotherapy or radiation), and current physical strength. Whether exploring alternative treatment or complementary therapy alongside standard care, a structured medical evaluation determines whether the patient can safely participate in the program."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Alternative Cancer Treatment Cost and Packages",
+   "text": "Understanding the overall cancer treatment cost abroad allows families to plan financially. ITC maintains a transparent pricing model to ensure international patients can evaluate their options without hidden fees. | Base Package Price | Cancer Types Treated at ITC | Standard Inclusions | $18,995 | Breast Cancer Prostate Cancer Lung Cancer Colon & Colorectal Cancer Pancreatic Cancer Ovarian & Cervical Cancer Liver & Kidney Cancer Leukemia & Lymphoma Melanoma & Skin Cancers Brain Tumors Stomach & Esophageal Cancer Sarcoma & Bone Cancers Physician consultations & daily care Customized alternative therapy suite Daily IV nutrition & natural supplements Medical monitoring & nursing care Local transportation assistance Patient companion support services Patients seeking comprehensive alternative cancer therapy options can request a personalized quote based on their required length of stay and customized therapeutic needs."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Risks and Important Medical Considerations",
+   "text": "Evaluating cancer treatment decisions requires objective review of medical facts, individual diagnosis, and potential risks: Cancer care outcomes vary based on individual biology, stage, and previous therapies. Benefits and limitations of alternative therapies should be reviewed carefully prior to initiating treatment. Possible side effects, detox reactions, or physical changes should be discussed with medical professionals. Patients should avoid delaying necessary standard treatments without consulting their primary oncologist. Seeking a second opinion can help patients make balanced, confident healthcare decisions."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Patient Travel and Support Services",
+   "text": "ITC Immunity Therapy Center provides extensive logistical support for international visitors traveling to Tijuana, Mexico. The facility is located near San Diego International Airport (SAN), and dedicated shuttle services facilitate seamless border crossings and local transit to medical appointments and affiliated hotel accommodations."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "What is alternative cancer treatment at ITC Immunity Therapy Center?",
+   "text": "Alternative cancer treatment at ITC refers to customized modalities—such as specialized immunotherapies, hyperthermia, and biomagnetic therapy—designed to support the immune system and target cancer cells. As a specialized cancer immunotherapy treatment center, ITC designs programs tailored to each patient's needs."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Who may be eligible for alternative cancer treatment at ITC Immunity Therapy Center?",
+   "text": "Eligibility depends on cancer type, stage, physical strength, organ function, and medical history. Patients undergo a medical evaluation prior to acceptance."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "How much does alternative cancer treatment at ITC Immunity Therapy Center cost?",
+   "text": "Treatment costs start at $18,995 for standard multi-week programs. Total costs vary based on protocol duration, specific therapies required, and diagnostic needs."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Can alternative cancer treatment be combined with conventional cancer treatment?",
+   "text": "Yes, many patients utilize integrative therapies alongside conventional treatments. Any combination should be coordinated with qualified physicians to evaluate safety and compatibility."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "What risks should patients consider before choosing alternative cancer treatment?",
+   "text": "Patients should consider potential side effects, detox responses, treatment limitations, and personal health conditions before starting therapy."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "How do international patients arrange cancer treatment at ITC Immunity Therapy Center?",
+   "text": "International patients submit medical records for review, receive a treatment plan and quote, and coordinate travel with ITC's support team."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "What medical information should patients provide before consultation?",
+   "text": "Patients should provide recent pathology reports, imaging scans (CT, MRI, PET), blood work, diagnosis summaries, and a history of previous treatments."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Get More Information About Treatment Eligibility",
+   "text": "Submit your inquiry and ask about the consultation process, requirements, and next steps. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana, Tijuana, Mexico Profile Details",
+   "text": "IMMUNITY THERAPY CENTER"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Come to Our Special Alternative Cancer Care Place in Tijuana, Mexico!",
+   "text": "We are here to help you feel better and strong. At our center, we use gentle and safe care to fight cancer and other sicknesses. We have treatments that work with your body to find and stop cancer cells. Our care is kind and natural, with no big ouchies. We also help you feel happy and brave with extra love and support. You’ll get a plan made just for you, with care for your body and your heart. Let’s help you feel your best and win this fight together! We take care of everyone in a special way because each person is unique. \"At the Immunity Therapy Center, we help everyone in their own special way. We know every person and sickness is different. That’s why we make a plan just for you. We are here to help you feel better and stay with you all the way.\""
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "International Patient Services and Quality Assurance",
+   "text": "Many people come from far away to get help at the Immunity Therapy Center. The center helps with travel, places to stay, and talking to doctors. It is a safe and trusted place, approved by a big health group called COFEPRIS. People from all over the world can feel good about getting care here in Tijuana, Mexico. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Alternative Cancer Treatments At Immunity Therapy Center",
+   "text": "01 We take care of people with different kinds of cancer, like Private Parts cancer, bladder cancer, and skin cancer. We also help people with brain cancer and other cancers in the body. 02 Our job is to make people feel better and give them hope. We care for everyone who needs help and work hard to make them strong again. CANCER TREATMENTS Stomach Cancers : Cancer in places like the belly or stomach. Private Part Cancers : Cancer in places like the bladder, kidneys, or parts that make babies. Bottom Cancers : Cancer in places like the bum or private parts. Skin Cancers : Cancer on the skin, like spots that look different. Brain Cancers : Cancer in the head or neck. Other Cancers : Cancer in places like the chest or muscles. We help people with cancer feel better! Our team works together to make a special plan for each person. This plan helps them get healthy and feel happy. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Certificates, Accreditations, Qualifications Treatments Offered",
+   "text": "ITC MEDICAL TEAM"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Alternative Cancer Treatment Doctors of ITC",
+   "text": "The Immunity Therapy Center in Tijuana, Mexico, is a place where kind doctors help people feel better. Dr. Carlos Bautista leads the team to work hard to help you. They all care a lot about making people healthy. MEDICAL DIRECTOR Dr. Carlos Bautista, M.D. - Medical Director Dr. Carlos Bautista is the kind boss at the Immunity Therapy Center in Tijuana, Mexico. He helps people who are very sick, like those with cancer. He and his team make special plans to help each person feel better, using gentle and natural ways to heal. TREATING PHYSICIAN Dr. David Alvarez, M.D. Dr. David Alvarez is a nice doctor at the Immunity Therapy Center. He helps people who are very sick, like those with cancer. He uses gentle and natural ways to make them feel better and get strong again. TREATING PHYSICIAN Dr. Adolfo Carrillo, M.D. Dr. Adolfo Carrillo is a very kind doctor at the Immunity Therapy Center. He helps people who are very sick, like those with cancer. Dr. Carrillo makes special plans to help their bodies get stronger and feel better. He gives hope and care to his patients when they need it most. TREATING PHYSICIAN Dr. Pablo Orozco, M.D. Dr. Pablo Orozco is a very nice doctor at ITC. He helps people who are very sick, like those with cancer. Dr. Orozco uses natural treatments to help the body get better. He makes special plans for each person to help them feel strong and healthy. These doctors works with other doctors to help people who are sick. They make special plans to help each person feel better. Together, they give hope and care to everyone who needs it. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Success Stories from Immunity Cancer Treatment Clinic in Tijuana, Mexico",
+   "text": "ITC - Immunity Therapy Center helps people feel better when they are sick. It is in Tijuana, Mexico, and has doctors who care for patients with love and hope. At ITC, doctors use special treatments that are gentle and help people get strong again. PATIENT STORIES Bette Johnson's Got Breast Cancer Treatment William Fox's Got Prostate Cancer Treatment Adrianne's Success Story with Lung Cancer Treatment Clara's Success Story with Breast Cancer Treatment Success Story of Prostate Cancer Treatment of Alberto's Maria Petulla Shares her Story of Breast Cancer Treatment Arthur Rivas' Success Story with Lung Cancer Treatment Alfred Mohammed's Story About Prostate Cancer Treatment Aline Reves Journey with Pancreatic Cancer Treatment Sadie Litosky - HODGKIN LYMPHOMA Sadie Litosky is a brave young girl from Canada. When Sadie was 19, she found out she was very sick with Hodgkin’s Lymphoma, a kind of cancer. At first, she had a small bump on her neck, but then she started having trouble breathing and felt pain in her chest. Sadie’s mom searched all over to find help. That’s when they found ITC. Sadie was not sure about it at first, but she liked how ITC’s plan was gentle and would not hurt her body too much. At ITC, Sadie got treatments that did not hurt a lot. After just two weeks, she felt better. Her chest did not hurt anymore, she could breathe easily, and she had more energy. After three and a half months, her cancer was gone! Sadie loved the kind nurses and doctors at ITC. Dr. Bautista talked to her honestly, and everyone made her feel safe. Sadie said, “I was welcomed by everyone here, which was really nice, especially when I was scared.” ITC helped Sadie go from feeling scared to feeling hopeful and happy again. Karla Leonard - BREAST CANCER Karla Leonard is a strong and brave woman from California. She had very bad breast cancer that spread to other parts of her body. Karla felt scared and sad, but she did nt give up hope. She went to ITC for help in May 2013. At first, Karla’s son was not sure about ITC, but Karla believed it could help her. When she got there, she saw how kind and caring everyone was. The treatments were gentle and did not hurt her body too much. Karla liked how the doctors always told her what was happening and how"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Success Stories from Immunity Cancer Treatment Clinic in Tijuana, Mexico",
+   "text": "she was getting better. After three weeks of treatment at ITC in Mexico, Karla went back home. She kept doing what the doctors told her, like eating healthy food and taking her medicine. One day, Karla noticed the lumps on her breast were gone! She felt so happy and proud of herself. Now, Karla does not need her oxygen tank or wheel chair anymore. She can breathe and walk on her own. Karla knows there are still hard days, but she feels strong and free again. ITC helped Karla feel better and enjoy her life Troy Clark - PROSTATE CANCER Troy Clark is a strong and brave man. In 2018, he found out he had a sickness called Stage 3 Prostate Cancer. Troy remembered how his dad went through treatments that made him feel very tired and weak. Troy wanted to find a different way to get better. A friend told Troy about a special place called Immunity Therapy Center, or ITC. Troy decided to give it a try. When he got there, he felt happy because everyone was so kind and respectful. Troy said, “Everyone at ITC treats me with the utmost respect. What I get here from ITC, other people, and their experiences is just a great feeling overall.” After getting help from ITC, Troy got better. Now, he has been healthy and free from cancer for almost 5 years! Troy’s story shows how ITC helps people feel better and live happy lives. Debbie Halper - LIVER CANCER “The Immunity Therapy Center Saved My Life and I Hope they Can Help You Too” Debbie was very sick with a rare kind of cancer in her liver and near her stomach. The doctors told her it was very serious and hard to fix. Debbie felt very scared. One day, Debbie found ITC online and decided to give it a try. She started her treatment on May 1st. The nurses and doctors at ITC were so kind and worked hard to help her. Debbie felt safe and cared for. After just 6 weeks, Debbie’s liver cancer was all gone! Her doctor in California made a new plan to help her get rid of the other cancer. Now, Debbie is healthy and free from cancer. Debbie wants to tell everyone, “If you feel like there is no hope, there is hope!” Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Awards & Recognitions",
+   "text": "AWARDS & RECOGNITION"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Awards Win By Immunity Therapy Center",
+   "text": "01 ITC - Immunity Therapy Center got a special award for helping people. They are really good at taking care of people with cancer. 02 Recognized as Top Cancer Center in Latin America 2025. 03 These award shows they work hard to find new ways to help and keep everyone safe. 04 It means they are doing a great job helping people feel better and stay strong. 05 ITC wants to keep helping and giving hope to everyone who needs it. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Medical Tourism for Cancer Treatment in Tijuana, Mexico",
+   "text": "If you are thinking about going to Tijuana, Mexico, for cancer treatment, there is more to know than just the great doctors and hospitals. Tijuana is a fun and exciting city with many things to see and do. It has good food, cool places to visit, and fun activities to enjoy while you are getting better. Let’s look at some of the best things to do in Tijuana and how you can get there easily."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Attractions worth Exploring",
+   "text": "Tijuana is a fun place to visit! There are lots of cool things to see and do. Walk Around : Go to Avenida Revolución! It has fun shops, yummy food, and pretty street art. It’s a great place to walk and look around. Learn and Play : Visit the Tijuana Cultural Center! You can see art, watch plays, and learn about Mexico in a big IMAX theater. Meet Wax People : The Tijuana Wax Museum has statues that look like real people! You can see famous people and learn about history in a fun way. Eat Yummy Food : Try tacos, ceviche, and churros! The food here is super tasty and will make you happy."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Getting to Tijuana Made Easy",
+   "text": "By Plane San Diego International Airport (SAN) is just 25 minutes from Tijuana. Many people from the U.S., Canada, and other countries like this option. ITC even offers free rides to and from the airport. By Plane Tijuana also has its own airport, Tijuana International Airport (TIJ), with flights from many big U.S. cities. It’s a great choice for anyone coming for cancer treatment. By Bus or Car You can drive or take a bus to Tijuana if you’re in Mexico or the U.S. Highways connect Tijuana to big cities like San Diego, making it easy to get here by road. By Train If you’re in Southern California, trains like Amtrak’s Pacific Surfliner and the San Diego Trolley are good options. They’re a fun, green way to enjoy the trip to Tijuana. Tijuana is a place where people can get help to feel better and also have fun! You can eat yummy food, see cool things, and meet nice people. No matter how you come—by plane, bus, car, or train—Tijuana is ready to welcome you and help you feel happy and healthy. Contact PlacidWay for a Free Quote"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Reviews",
+   "text": "Beware, the doctors lie to you at this clinic. I recently went down for 3 weeks of treatment for breast cancer. Even though I told them I didn't want their chemo treatment, they assured me it would be really helpful, they would only be using 10% and I would not lose my hair. They lied. I lost all of my hair which started 1 week after I returned home. When contacting my doctor he told me that was so unusual and recommended Minoxidal (which actually makes your hair shed worse before it regrows). This happened to 2 other women I kept in contact with. So it wasn't that unusual. When I followed up to find out what they gave me, it was the MOST toxic of all the chemotherapy treatments and they gave me a 50% dose, not 10%. It makes me question everything they are administering here. It has been extremely stressful which is opposite from what I need healing cancer. I am guessing they push chemo so much because they want results. I later found out the type of cancer I have, isn't responsive to chemotherapy. I would have hoped a clinic like this would have tests to check this. The total disrespect for me to make an informed decision makes me motivated to share my story to help protect others. I regret going here. Spend your money with doctors who are honest. I will say that the nurses were spectacular. They deserve a 10 star rating. But the doctors deserve a -10 for taking advantage of their patients at their most vulnerable."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Guest P",
+   "text": "Oct 24 2026 This was my husbands 5th trip to ITC. He goes annually for check-ups and to get an \"immune boost\"! He is always treated like family and gets quality care. We are happy with all aspects of ITC but above all we are happy with the results of his treatments!"
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Jana C",
+   "text": "Alternative Cancer Treatment by ITC - Immunity Therapy Center Jul 05 2023 The ITC doctors, nurses, and staff were absolutely phenomenal. I was given specialized and personalized care not only for the three weeks I received therapy at their facility, but also in the months that followed as I continued home therapy. These people are in the business of caring for those with sickness and they do it with compassion and wisdom. Their confidence is encouraging and I have seen a complete turn around in my health."
+  },
+  {
+   "source_id": "profile",
+   "source_type": "Clinic profile",
+   "source_url": "https://www.placidway.com/profile/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center - Cancer Treatment in Tijuana Mexico",
+   "section": "Chris P",
+   "text": "Alternative Cancer Treatment by ITC - Immunity Therapy Center Aug 09 2023"
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Key facts (structured data)",
+   "text": "Name: Dr. Carlos Bautista; ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana; PlacidWay; PlacidWay Medical Tourism; Telephone: +18882966664; Address: PostalAddress, Blvd. Padre Kino 10133, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C., Mexico, Tijuana, MX"
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "A Path Toward Recovery: Adenocarcinoma Cancer Treatment in Tijuana",
+   "text": "For individuals navigating the complexities of glandular malignancies, the Immunity Therapy Center (ITC) provides a specialized Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico . Adenocarcinoma, which originates in the glandular cells of various organs such as the lungs, colon, breast, or prostate, requires a nuanced approach that addresses the aggressive nature of these cells. ITC focuses on stimulating the body's natural immune system while targeting malignant clusters with advanced, non-toxic protocols. By combining modern medical innovation with holistic care, this program provides a powerful option for those looking beyond traditional systemic treatments in a supportive environment. The Immunity Therapy Center has earned a global reputation for its commitment to personalized medicine. Located in the vibrant medical hub of Baja California, ITC allows international patients to access cutting-edge therapies that may not yet be widely available in their home countries. Whether you are exploring options for a new diagnosis or seeking a supplemental path for advanced-stage glandular cancer, the dedicated medical team at ITC works tirelessly to craft a treatment plan focused on quality of life and long-term remission through Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Key Takeaways for Your Healing Journey at ITC",
+   "text": "Personalized Immune Stimulation: Every protocol is tailored to the patient’s specific type of glandular malignancy and overall health status. Flexible Care Options: Patients can choose between a focused Out-Patient program or a comprehensive 24/7 In-Patient experience. Transparent Pricing: ITC provides clear, upfront costs for 3-week programs, ensuring patients can plan their medical travel without surprises. Advanced Diagnostic Monitoring: Weekly laboratory work and high-tech imaging ensure the medical team can adjust therapies in real-time based on progress. Holistic Nutritional Support: Programs include organic, health-optimized meals designed to strengthen the body during the intensive treatment phase. Continued Post-Care: A structured follow-up consultation three months after discharge ensures patients remain supported during their transition home."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Cost of Adenocarcinoma Cancer Treatment in Tijuana, Mexico",
+   "text": "Choosing an Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico at ITC involves choosing a high-value medical investment. The costs are structured to cover intensive therapeutic interventions over a three-week period, providing a level of one-on-one medical attention. Below is the breakdown of the primary program tiers available to international patients. | Program Type | Duration | Total Cost (USD) | Out-Patient Program | 3 Weeks | $18,995 | In-Patient Program | 3 Weeks | $30,000 Note: The In-Patient program is specifically designed for those requiring 24/7 medical supervision or those with mobility challenges."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Included in the Out-Patient Program ($18,995 USD)",
+   "text": "The Out-patient program is designed for patients that can come in and out daily to receive therapies at our medical center not needing to stay overnight. Weekly Comprehensive Lab Work: CBC, blood chemistry, immunology assessment, kidney function, metabolic and coagulation panels (TP/TPT), specific tumor markers, and urinalysis. Prescribed Imaging: One X-ray, ultrasound, or CT scan of one area as directed by your ITC physician. Core Therapies: All alternative treatments listed as standard within the 3-week program. Nutritional Support: Two health-focused meals provided daily during treatment hours. Medications: Standard medications included in the out-patient protocol (discussed upon admission). Follow-up Care: One post-discharge consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Included in the In-Patient Program ($30,000 USD)",
+   "text": "The In-patient program is designed for patients that require medical care 24/7, that cannot come in and out daily to receive therapies at our medical center. 24/7 Medical Supervision: Constant access to dedicated doctor and nursing care throughout the 3-week stay. Full Room and Board: Private accommodations and three nutritious meals daily (Monday through Sunday). Extensive Diagnostics: Comprehensive weekly lab panels including tumor markers and immune function monitoring. Diagnostic Imaging: One prescribed X-ray, ultrasound, or CT scan included per doctor's orders. Clinical Therapies: Full access to all program-specific alternative and integrative interventions. Pharmacy Support: Medications specific to the in-patient protocol included and managed by staff. Post-Care: A follow-up consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Optional Specialized Procedures (Additional Cost)",
+   "text": "For complex cases, ITC offers highly specific interventions that can be added to the baseline Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico. These are recommended only after a thorough evaluation by the medical board. Lymphocytes Activated Killer Cells (LAK): $2,600 USD Specific Killer Cell Antibody: $3,950 - $4,250 USD Ethanol Tumor Ablation: $3,800 - $4,250 USD Mononuclear Cell Activation (MCA): $4,650 USD Intratumoral Immunotherapy: $6,200 - $7,200 USD"
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Excluded Services and Contingency Costs",
+   "text": "Specialty Medications: Certain high-cost or specific pharmaceuticals not in the base price (Cost varies). Specialist Consultations: Visits from external surgeons, internists, radiologists, or neurologists (Approx. $200 per visit). Surgical Interventions: Any necessary major surgeries or biopsies required during the stay. Blood Products: Blood transfusions if required (Approx. $462 per pint). Emergency Services: Ambulance transfers ($950) and emergency doctor fees. Additional Imaging: Supplemental CT scans beyond the included diagnostic ($300 per area). Home Programs: Optional personalized home-care kits for use after discharge."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "The ITC Philosophy: How Alternative Treatment Targets Adenocarcinoma",
+   "text": "Glandular Cell Targeting: Adenocarcinoma behaves differently than other cancers; our therapies focus on the specific biological pathways of glandular cells. Immune System Restoration: The goal is to \"re-train\" the immune system to recognize and attack adenocarcinoma cells effectively. Multi-Modal Approach: Using oxygen therapies, hyperthermia, and targeted nutrition to weaken tumor structures. Non-Toxic Focus: Prioritizing therapies that preserve healthy cells, reducing the debilitating side effects often associated with conventional oncology. Detoxification: Programs emphasize clearing toxins from the body to allow for better cellular regeneration."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Who Should Consider Treatment at Immunity Therapy Center?",
+   "text": "Patients seeking options after conventional treatments like chemotherapy or radiation have been exhausted or proved ineffective. Individuals looking for an integrative approach to use alongside their existing oncological care for adenocarcinoma. Those diagnosed with adenocarcinoma of the lung, breast, prostate, or GI tract looking for immune-based protocols. Patients who prioritize a high level of personalized doctor-patient interaction and daily monitoring. Individuals physically capable of traveling to Tijuana, Mexico for a minimum of a three-week stay."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "3-Week Typical Itinerary at ITC Tijuana",
+   "text": "Week 1 - Evaluation & Initiation: Arrival, comprehensive diagnostic blood panels, and the first phase of immune-boosting therapies and detoxification. Week 2 - Intensive Therapy: Daily rotation of specialized alternative treatments tailored to the adenocarcinoma's response and the patient's energy levels. Week 3 - Consolidation & Planning: Final round of aggressive therapy, concluding lab work, and the development of a customized home-care program."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Redefining Healing in Tijuana, Mexico",
+   "text": "Tijuana has evolved into one of the most sophisticated medical destinations in the world, particularly for integrative oncology. Choosing Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico means you are stepping into a community of healing where medical professionals are free to utilize the best of both natural and scientific worlds. At ITC, you are not just a chart number; you are a partner in your own recovery, surrounded by a staff that speaks your language and understands your goals. The proximity to San Diego makes travel seamless, allowing you to focus entirely on your health while enjoying the professional standards of a leading international clinic."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "1. What exactly makes ITC's approach \"alternative\" for adenocarcinoma?",
+   "text": "Unlike standard protocols that focus solely on killing cells through toxicity, ITC uses Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico to strengthen the body's natural defenses. We combine non-toxic therapies with immunotherapy to target glandular cancer cells while maintaining the health of the patient's overall system."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "2. Can ITC treat adenocarcinoma that has metastasized?",
+   "text": "Yes, we often treat patients with advanced-stage adenocarcinoma. Our protocols focus on systemic immune stimulation, which can be effective in identifying and fighting cancer cells that have spread to other parts of the body."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "3. Is the Out-Patient program safe for someone with low energy?",
+   "text": "The Out-Patient program is best for those who can move independently. However, if a patient has very low energy or requires constant monitoring due to the severity of their adenocarcinoma, the In-Patient program is highly recommended for 24/7 care."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "4. Are the tumor markers checked specifically for glandular cancers?",
+   "text": "Absolutely. As part of our weekly lab work, we monitor specific tumor markers relevant to adenocarcinoma, such as CEA or organ-specific markers like PSA or CA 15-3, to measure the real-time effectiveness of the therapy."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "5. Why is the treatment period three weeks?",
+   "text": "Three weeks is generally the minimum time needed to jumpstart the immune system and begin the detoxification process. It allows the medical team to observe how the adenocarcinoma responds to the initial phase of therapy and adjust the protocol accordingly."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "6. Will the ITC doctors work with my oncologist back home?",
+   "text": "Yes, we encourage a collaborative approach. Many patients use our Alternative Adenocarcinoma Cancer Treatment in Tijuana Mexico as a complementary therapy alongside their existing medical plans, and we can share results for follow-up care."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "7. What kind of nutritional support is provided?",
+   "text": "We provide organic, health-optimized meals designed to eliminate toxins and provide the body with the nutrients it needs to recover. This is a core component of our holistic approach to fighting glandular cancer."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "8. Is the staff at the clinic bilingual?",
+   "text": "Yes, our team is fully bilingual in English and Spanish. This ensures that international patients can communicate clearly with their doctors and nurses regarding every aspect of their adenocarcinoma treatment."
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Take the First Step Toward Your Recovery Today",
+   "text": "Direct access to Immunity Therapy Center’s world-renowned integrative oncology experts. Clear and transparent 3-week program pricing for both In-Patient and Out-Patient needs. Assistance with all medical records review and initial clinical evaluations. Comprehensive support for international patients traveling to Tijuana, Mexico. A patient-first approach focused on non-toxic, immune-stimulating cancer care. Get a Free Quote"
+  },
+  {
+   "source_id": "package-adenocarcinoma",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7903/Alternative-Adenocarcinoma-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adenocarcinoma Cancer Treatment in Tijuana",
+   "section": "Related Experiences:",
+   "text": "Ibogaine Treatment for Methamphetamine Addiction in Tijuana, Mexico Ibogaine Treatment for Alcohol Addiction in Tijuana, Mexico Ibogaine Treatment for Opioid Addiction in Tijuana, Mexico Ibogaine Treatment in Tijuana, Mexico IVF Treatments in Tijuana, Mexico Mommy Makeover in Tijuana, Mexico 0 0"
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Key facts (structured data)",
+   "text": "Name: Dr. Carlos Bautista; ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana; PlacidWay; PlacidWay Medical Tourism; Telephone: +18882966664; Address: PostalAddress, Blvd. Padre Kino 10133, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C., Mexico, Tijuana, MX"
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Hormonal Balance Support: Adrenal Cancer Treatment in Tijuana, Mexico",
+   "text": "For patients seeking a comprehensive and integrative approach to oncology, the Immunity Therapy Center (ITC) offers a specialized Alternative Adrenal Cancer Treatment in Tijuana Mexico . Recognizing that every patient's biological makeup and cancer stage are unique, ITC focuses on stimulating the body's natural immune system while targeting malignant adrenal cells with advanced, non-toxic protocols. By combining modern medical innovation with holistic care, this program provides a powerful alternative for those looking beyond traditional systemic treatments in a supportive, world-class environment. The Immunity Therapy Center has earned a global reputation for its commitment to personalized medicine. Located in the vibrant medical hub of Baja California, ITC allows international patients to access cutting-edge therapies that may not yet be widely available in their home countries. Whether you are exploring options for a new diagnosis or seeking a supplemental path for advanced-stage recovery, the dedicated medical team at ITC works tirelessly to craft a treatment plan focused on quality of life and long-term remission through Alternative Adrenal Cancer Treatment in Tijuana Mexico."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Key Takeaways for Your Healing Journey at ITC",
+   "text": "Personalized Immune Stimulation: Every protocol is tailored to the patient’s specific type of adrenal malignancy and overall hormonal health status. Flexible Care Options: Patients can choose between a focused Out-Patient program or a comprehensive 24/7 In-Patient experience. Transparent Pricing: ITC provides clear, upfront costs for 3-week programs, ensuring patients can plan their medical travel without hidden surprises. Advanced Diagnostic Monitoring: Weekly laboratory work and high-tech imaging ensure the medical team can adjust therapies in real-time based on progress. Holistic Nutritional Support: Programs include organic, health-optimized meals designed to strengthen the body during the intensive treatment phase. Continued Post-Care: A structured follow-up consultation three months after discharge ensures patients remain supported during their transition back home."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Cost of Adrenal Cancer Treatment in Tijuana, Mexico",
+   "text": "Choosing an Alternative Adrenal Cancer Treatment in Tijuana Mexico at ITC involves choosing a high-value medical investment. The costs are structured to cover intensive therapeutic interventions over a three-week period, providing a level of one-on-one medical attention that is often difficult to find in traditional hospital settings. Below is the breakdown of the primary program tiers available to international patients. | Program Type | Duration | Total Cost (USD) | Out-Patient Program | 3 Weeks | $18,995 | In-Patient Program | 3 Weeks | $30,000 Note: The In-Patient program is specifically designed for those requiring 24/7 medical supervision or those with mobility challenges."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Included in the Out-Patient Program ($18,995 USD)",
+   "text": "The Out-patient program is designed for patients that can come in and out daily to receive therapies at our medical center not needing to stay overnight. Weekly Comprehensive Lab Work: CBC, blood chemistry, immunology assessment, kidney function, metabolic and coagulation panels (TP/TPT), specific tumor markers, and urinalysis. Prescribed Imaging: One X-ray, ultrasound, or CT scan of one area as directed by your ITC physician. Core Therapies: All alternative treatments listed on the program as included within the 3-week stay. Nutritional Support: Two health-focused meals provided daily during treatment hours. Medications: Standard medications included in the out-patient protocol (discussed in detail upon admission). Follow-up Care: One post-discharge consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Included in the In-Patient Program ($30,000 USD)",
+   "text": "The In-patient program is designed for patients that require medical care 24/7, that cannot come in and out daily to receive therapies at our medical center. 24/7 Medical Supervision: Constant access to dedicated doctor and nursing care 24 hours a day throughout the stay. Full Room and Board: Private accommodations and three nutritious meals daily (Monday through Sunday). Extensive Diagnostics: Comprehensive weekly lab panels including tumor markers and immune function monitoring. Diagnostic Imaging: One prescribed X-ray, ultrasound, or CT scan included per doctor's orders. Clinical Therapies: Full access to all program-specific alternative and integrative interventions. Pharmacy Support: Medications specific to the in-patient protocol included and managed by staff (discussed upon admission). Follow-up Care: One post-discharge medical consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Optional Specialized Procedures (Additional Cost)",
+   "text": "For complex cases, ITC offers highly specific interventions that can be added to the baseline Alternative Adrenal Cancer Treatment in Tijuana Mexico. These are recommended only after a thorough evaluation by the medical board. Lymphocytes Activated Killer Cells (LAK): $2,600 USD Specific Killer Cell Antibody: $3,950 - $4,250 USD Ethanol Tumor Ablation: $3,800 - $4,250 USD Mononuclear Cell Activation (MCA): $4,650 USD Intratumoral Immunotherapy: $6,200 - $7,200 USD"
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Excluded Services and Contingency Costs",
+   "text": "Specialty Medications: Certain high-cost or specific pharmaceuticals not included in the standard base price (Cost varies). Specialist Consultations: Visits from external surgeons, radiologists, internists, urologists, neurologists, or pain management physicians (Approx. $200 per visit). Surgical Interventions: Any necessary major surgeries or biopsies required during the stay (Cost varies). Blood Products: Blood transfusions if required (Approx. $462 per pint). Emergency Services: Ambulance transfers ($950) and emergency doctor fees. Additional Imaging: Supplemental CT scans beyond the included diagnostic ($300 per area). Home Programs: Optional medical kits for use after discharge."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "The ITC Philosophy: How Alternative Adrenal Cancer Treatment Works",
+   "text": "Immune System Restoration: The primary goal is to \"re-train\" the immune system to recognize and attack adrenal cancer cells effectively. Multi-Modal Approach: Using a combination of oxygen therapies, heat treatments (hyperthermia), and targeted nutrition to weaken tumor structures. Detoxification: Programs emphasize clearing toxins from the endocrine and lymphatic systems to allow for better cellular regeneration. Non-Toxic Focus: Prioritizing therapies that preserve healthy cells, reducing the debilitating side effects often associated with conventional oncology. Emotional Wellness: ITC fosters a positive, hopeful atmosphere, recognizing the deep connection between mental health and physical healing."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Who Should Consider Treatment at Immunity Therapy Center?",
+   "text": "Patients seeking options after conventional treatments like chemotherapy or radiation have been exhausted for adrenal cortical carcinoma. Individuals looking for an integrative approach to use alongside their existing oncological care. Those diagnosed with primary adrenal cancer or metastatic disease looking for immune-based protocols. Patients who prioritize a high level of personalized doctor-patient interaction and daily monitoring. Individuals physically capable of traveling to Tijuana, Mexico for a minimum of a three-week stay."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "3-Week Typical Itinerary at ITC Tijuana",
+   "text": "Week 1 - Evaluation & Initiation: Arrival, comprehensive diagnostic blood panels, and the first phase of immune-boosting therapies and endocrine detoxification. Week 2 - Intensive Therapy: Daily rotation of specialized alternative treatments tailored to the tumor's response and the patient's energy levels. Week 3 - Consolidation & Planning: Final round of aggressive therapy, concluding lab work, and the development of a customized home-care program."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Step Into a World-Class Healing Environment in Tijuana, Mexico",
+   "text": "Tijuana has evolved into one of the most sophisticated medical destinations in the world, particularly for integrative oncology. Choosing Alternative Adrenal Cancer Treatment in Tijuana Mexico means you are stepping into a community of healing where medical professionals are free to utilize the best of both natural and scientific worlds. At ITC, you are not just a chart number; you are a partner in your own recovery, surrounded by a staff that speaks your language and understands your goals. The proximity to San Diego makes travel seamless, allowing you to focus entirely on your health while enjoying the professional standards of a leading international clinic."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "1. Why is Tijuana a hub for alternative adrenal cancer treatments?",
+   "text": "Mexico's regulatory environment allows for the use of advanced integrative and alternative therapies that are often caught in long approval processes elsewhere. This allows clinics like ITC to offer the latest innovations in immunotherapy and non-toxic protocols that specifically target endocrine-based malignancies."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "2. Can I combine ITC treatments with my current hormone therapy?",
+   "text": "Yes, many patients utilize ITC’s protocols as a complementary approach to strengthen their immune system while undergoing conventional hormone management or care elsewhere. Our doctors coordinate closely to ensure therapies do not conflict."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "3. How do I know if I am a candidate for the Out-Patient or In-Patient program?",
+   "text": "Generally, if you are mobile and have a companion to help with daily logistics, Out-Patient is ideal. In-Patient is reserved for those needing constant nursing care, 24/7 medical monitoring, or those dealing with extreme fatigue from adrenal dysfunction."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "4. Are the doctors at ITC board-certified?",
+   "text": "Yes, the medical team consists of licensed physicians and specialists with extensive training in both traditional and integrative oncology, ensuring high standards of safety and professional care for every patient."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "5. Is English spoken at the clinic?",
+   "text": "Absolutely. ITC is designed for international patients, and the entire staff, from doctors to patient coordinators, is fluent in English, ensuring clear communication regarding your treatment plan and progress."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "6. What specific tumor markers are monitored for adrenal cancer?",
+   "text": "Our weekly lab panels track specific substances and hormones found in the blood that indicate the presence and activity level of adrenal cancer, helping our medical team adjust your protocol based on real-time physiological data."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "7. Is Intratumoral Immunotherapy recommended for adrenal tumors?",
+   "text": "Intratumoral Immunotherapy is an optional procedure ($6,200 - $7,200) that may be suggested for accessible tumors. The ITC medical board will evaluate your specific scans and case to determine if you are a candidate for this localized treatment."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "8. Can I bring my own adrenal support supplements to the clinic?",
+   "text": "All supplements and medications will be reviewed by the ITC doctors upon admission to ensure they align with your personalized treatment plan and do not interfere with the active alternative protocols."
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Start Your Personalized Healing Journey Today",
+   "text": "Direct access to Immunity Therapy Center’s world-renowned integrative oncology experts. Clear and transparent 3-week program pricing for both In-Patient and Out-Patient needs. Assistance with all medical records review and initial clinical evaluations. Comprehensive support for international patients traveling to Tijuana, Mexico. A patient-first approach focused on non-toxic, immune-stimulating adrenal cancer care. Get a Free Quote"
+  },
+  {
+   "source_id": "package-adrenal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7902/Alternative-Adrenal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Adrenal Cancer Treatment in Tijuana",
+   "section": "Related Experiences:",
+   "text": "Prostate Cancer Treatment in Tijuana, Mexico Lung Cancer Treatment in Tijuana, Mexico Cancer Treatment in Tijuana, Mexico Lung Cancer Immunotherapy in Tijuana, Mexico Breast Cancer Immunotherapy Tijuana, Mexico Colon Cancer Immunotherapy in Tijuana, Mexico 0 0"
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Key facts (structured data)",
+   "text": "Name: Dr. Carlos Bautista; ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana; PlacidWay; PlacidWay Medical Tourism; Telephone: +18882966664; Address: PostalAddress, Blvd. Padre Kino 10133, Zona Urbana Rio Tijuana, 22010 Tijuana, B.C., Mexico, Tijuana, MX"
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Colorectal Health Support: Anal Cancer Treatment in Tijuana, Mexico",
+   "text": "For patients seeking a comprehensive and integrative approach to oncology, the Immunity Therapy Center (ITC) offers a specialized Alternative Anal Cancer Treatment in Tijuana Mexico . Recognizing that every patient's biological makeup and cancer stage are unique, ITC focuses on stimulating the body's natural immune system while targeting malignant cells with advanced, non-toxic protocols. By combining modern medical innovation with holistic care, this program provides a powerful alternative for those looking beyond traditional systemic treatments in a supportive, world-class environment. The Immunity Therapy Center has earned a global reputation for its commitment to personalized medicine. Located in the vibrant medical hub of Baja California, ITC allows international patients to access cutting-edge therapies that may not yet be widely available in their home countries. Whether you are exploring options for a new diagnosis or seeking a supplemental path for advanced-stage recovery, the dedicated medical team at ITC works tirelessly to craft a treatment plan focused on quality of life and long-term remission through Alternative Anal Cancer Treatment in Tijuana Mexico."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Key Takeaways for Your Healing Journey at ITC",
+   "text": "Personalized Immune Stimulation: Every protocol is tailored to the patient’s specific type of malignancy and overall health status. Flexible Care Options: Patients can choose between a focused Out-Patient program or a comprehensive 24/7 In-Patient experience. Transparent Pricing: ITC provides clear, upfront costs for 3-week programs, ensuring patients can plan their medical travel without hidden surprises. Advanced Diagnostic Monitoring: Weekly laboratory work and high-tech imaging ensure the medical team can adjust therapies in real-time based on progress. Holistic Nutritional Support: Programs include organic, health-optimized meals designed to strengthen the body during the intensive treatment phase. Continued Post-Care: A structured follow-up consultation three months after discharge ensures patients remain supported during their transition back home."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Cost of Alternative Anal Cancer Treatment in Tijuana, Mexico",
+   "text": "Choosing an Alternative Anal Cancer Treatment in Tijuana Mexico at ITC involves choosing a high-value medical investment. The costs are structured to cover intensive therapeutic interventions over a three-week period, providing a level of one-on-one medical attention that is often difficult to find in traditional hospital settings. Below is the breakdown of the primary program tiers available to international patients. | Program Type | Duration | Total Cost (USD) | Out-Patient Program | 3 Weeks | $18,995 | In-Patient Program | 3 Weeks | $30,000 Note: The In-Patient program is specifically designed for those requiring 24/7 medical supervision or those with mobility challenges."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Included in the Out-Patient Program ($18,995 USD)",
+   "text": "The Out-patient program is designed for patients that can come in and out daily to receive therapies at our medical center not needing to stay overnight. Weekly Comprehensive Lab Work: CBC, blood chemistry, immunology assessment, kidney function, metabolic and coagulation panels (TP/TPT), specific tumor markers, and urinalysis. Prescribed Imaging: One X-ray, ultrasound, or CT scan of one area as directed by your ITC physician. Core Therapies: All alternative treatments listed as standard within the 3-week program. Nutritional Support: Two health-focused meals provided daily during treatment hours. Medications: Standard medications included in the out-patient protocol (discussed in detail upon admission). Follow-up Care: One post-discharge consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Included in the In-Patient Program ($30,000 USD)",
+   "text": "The In-patient program is designed for patients that require medical care 24/7, that cannot come in and out daily to receive therapies at our medical center. 24/7 Medical Supervision: Constant access to dedicated doctor and nursing care throughout the 3-week stay. Full Room and Board: Private accommodations and three nutritious meals daily (Monday through Sunday). Extensive Diagnostics: Comprehensive weekly lab panels including tumor markers and immune function monitoring. Diagnostic Imaging: One prescribed X-ray, ultrasound, or CT scan included per doctor's orders. Clinical Therapies: Full access to all program-specific alternative and integrative interventions. Pharmacy Support: Medications specific to the in-patient protocol included and managed by staff. Follow-up Care: One post-discharge consultation with an ITC doctor after 3 months."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Optional Specialized Procedures (Additional Cost)",
+   "text": "For complex cases, ITC offers highly specific interventions that can be added to the baseline Alternative Anal Cancer Treatment in Tijuana Mexico. These are recommended only after a thorough evaluation by the medical board. Lymphocytes Activated Killer Cells (LAK): $2,600 USD Specific Killer Cell Antibody: $3,950 - $4,250 USD Ethanol Tumor Ablation: $3,800 - $4,250 USD Mononuclear Cell Activation (MCA): $4,650 USD Intratumoral Immunotherapy: $6,200 - $7,200 USD"
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Excluded Services and Contingency Costs",
+   "text": "Specialty Medications: Certain high-cost or specific pharmaceuticals not included in the standard base price (Cost varies). Specialist Consultations: Visits from external surgeons, radiologists, neurologists, internists, urologists, or pain management physicians (Approx. $200 per visit). Surgical Interventions: Any necessary major surgeries or biopsies required during the stay (Cost varies). Blood Products: Blood transfusions if required (Approx. $462 per pint). Emergency Services: Ambulance transfers ($950) and emergency doctor fees. Additional Imaging: Supplemental CT scans beyond the included diagnostic ($300 per area). Home Programs: Optional personalized home-care kits available for post-treatment support."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "The ITC Philosophy: How Alternative Anal Cancer Treatment Works",
+   "text": "Immune System Restoration: The primary goal is to \"re-train\" the immune system to recognize and attack malignant cells effectively. Multi-Modal Approach: Using a combination of oxygen therapies, heat treatments (hyperthermia), and targeted nutrition to weaken tumor structures. Detoxification: Programs emphasize clearing toxins from the body and lymphatic system to allow for better cellular regeneration. Non-Toxic Focus: Prioritizing therapies that preserve healthy cells, reducing the debilitating side effects often associated with conventional oncology. Emotional Wellness: ITC fosters a positive, hopeful atmosphere, recognizing the deep connection between mental health and physical healing."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Who Should Consider Treatment at Immunity Therapy Center?",
+   "text": "Patients seeking options after conventional treatments like chemotherapy or radiation have been exhausted. Individuals looking for an integrative approach to use alongside their existing oncological care. Those diagnosed with primary anal cancer or metastatic disease looking for immune-based protocols. Patients who prioritize a high level of personalized doctor-patient interaction and daily monitoring. Individuals physically capable of traveling to Tijuana, Mexico for a minimum of a three-week stay."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "3-Week Typical Itinerary at ITC Tijuana",
+   "text": "Week 1 - Evaluation & Initiation: Arrival, comprehensive diagnostic blood panels, and the first phase of immune-boosting therapies and detoxification. Week 2 - Intensive Therapy: Daily rotation of specialized alternative treatments tailored to the tumor's response and the patient's energy levels. Week 3 - Consolidation & Planning: Final round of aggressive therapy, concluding lab work, and the development of a customized home-care program."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Discover Advanced Medical Excellence in Tijuana, Mexico",
+   "text": "Tijuana has evolved into one of the most sophisticated medical destinations in the world, particularly for integrative oncology. Choosing Alternative Anal Cancer Treatment in Tijuana Mexico means you are stepping into a community of healing where medical professionals are free to utilize the best of both natural and scientific worlds. At ITC, you are not just a chart number; you are a partner in your own recovery, surrounded by a staff that speaks your language and understands your goals. The proximity to San Diego makes travel seamless, allowing you to focus entirely on your health while enjoying the professional standards of a leading international clinic."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "1. Why is Tijuana a preferred destination for anal cancer patients?",
+   "text": "Mexico's regulatory environment allows for the use of advanced integrative therapies that are often delayed in other countries. Clinics like ITC offer the latest innovations in immunotherapy and non-toxic protocols that specifically target anal malignancies without the severe side effects of standard radiation."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "2. Can these alternative therapies be used if I have a colostomy?",
+   "text": "Yes. Our medical team is experienced in managing patients with various surgical backgrounds. We adapt the Alternative Anal Cancer Treatment in Tijuana Mexico to your specific physical needs, ensuring therapies are safe and effective for your current condition."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "3. How do I decide between the Out-Patient and In-Patient program?",
+   "text": "Generally, if you are mobile and have a companion for support, the Out-Patient program is a great choice. The In-Patient program is recommended for those requiring 24/7 medical supervision, constant nursing care, or those facing significant mobility challenges."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "4. Are the physicians at ITC board-certified?",
+   "text": "Yes, our medical team consists of licensed physicians and specialists with extensive training in both traditional oncology and integrative medical practices, ensuring you receive high-standard professional care."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "5. Is English spoken at the Immunity Therapy Center?",
+   "text": "Absolutely. ITC is designed to accommodate international patients. All doctors, nurses, and patient coordinators are fluent in English, ensuring clear communication regarding your treatment and progress."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "6. What are the tumor markers monitored during the 3-week stay?",
+   "text": "These are specific substances in the blood that can indicate the presence and activity level of cancer. By monitoring them weekly, our doctors can measure the effectiveness of the Alternative Anal Cancer Treatment in Tijuana Mexico in real-time."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "7. What is Intratumoral Immunotherapy and is it right for me?",
+   "text": "This involves injecting specialized immune-stimulating agents directly into a tumor. It is an optional procedure that our doctors will evaluate based on your specific tumor location and stage to determine if you would benefit from it."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "8. Can I bring a family member with me during treatment?",
+   "text": "We highly encourage family support. For out-patients, companions are welcome at the center during treatment hours, and for in-patients, private accommodations are designed to provide a comfortable environment for both the patient and their guest."
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Start Your Personalized Healing Journey Today",
+   "text": "Direct access to Immunity Therapy Center’s world-renowned integrative oncology experts. Clear and transparent 3-week program pricing for both In-Patient and Out-Patient needs. Assistance with all medical records review and initial clinical evaluations. Comprehensive support for international patients traveling to Tijuana, Mexico. A patient-first approach focused on non-toxic, immune-stimulating cancer care. Get a Free Quote"
+  },
+  {
+   "source_id": "package-anal",
+   "source_type": "Treatment package",
+   "source_url": "https://www.placidway.com/package/7901/Alternative-Anal-Cancer-Treatment-Package-in-Tijuana-Mexico-by-ITC",
+   "page_title": "Alternative Anal Cancer Treatment in Tijuana",
+   "section": "Related Experiences:",
+   "text": "Ibogaine Treatment for Methamphetamine Addiction in Tijuana, Mexico Ibogaine Treatment for Alcohol Addiction in Tijuana, Mexico Ibogaine Treatment for Opioid Addiction in Tijuana, Mexico Ibogaine Treatment in Tijuana, Mexico IVF Treatments in Tijuana, Mexico Mommy Makeover in Tijuana, Mexico 0 0"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Erika Henkelman’s Breast Cancer Treatment Journey in Tijuana, Mexico at ITC Immunity Therapy Center — Courage Through Treatment: Breast Cancer Care in Tijuana, MexicoReceiving a complex cancer diagnosis can feel overwhelming, testing a person&#39;s physical endurance, emotional strength, and hope for the future. (https://www.youtube.com/watch?v=bzdN2fEzIrU)\nVideo: Finding Hope Through Breast Cancer Treatment in Tijuana, Mexico: Heidi Gwaltney’s Personal Journey at ITC — Hope and Strength: Breast Cancer Treatment in Tijuana, MexicoFacing an advanced oncology diagnosis creates profound physical, emotional, and spiritual hurdles for patients and their loved ones. (https://www.youtube.com/watch?v=_2-pKkowrC8D)\nVideo: Jaira Miller from Ohio Shares Her Lyme Disease Treatment Experience at Immunity Therapy Center in Tijuana, Mexico — Jaira Miller from Ohio: Lyme Disease Treatment Story at ITC in TijuanaLiving with chronic tick-borne illnesses can significantly disrupt daily routines, drain physical energy, and diminish overall quality of life. (https://www.youtube.com/watch?v=cZapI5Xbi5o)\nVideo: Diana’s Lung and Brain Cancer Treatment Experience at ITC Tijuana — Quick answer: what this video showsThis video features Diana, a patient in Tijuana, Mexico, sharing her experience with alternative cancer treatment. (https://www.youtube.com/watch?v=HCTrgLfQf1Y)\nVideo: Nancy’s Alternative Cancer Treatment Journey at ITC Tijuana — Quick answer: what this video showsThis video features an Immunity Therapy Center review by patient Nancy Kaminski. (https://www.youtube.com/watch?v=AmlC4tTmZOs)\nVideo: Bonnie’s Waldenström’s Treatment Experience at Immunity Therapy Center — Quick answer: what this video showsThis video features patient Bonnie Friedman reviewing her experience at the Immunity Therapy Center (ITC) in Tijuana, Mexico. (https://www.youtube.com/watch?v=z9keNZK-_4I)\nVideo: Dave Elko’s Prostate Cancer Treatment Experience at ITC Tijuana — Quick answer: what this video showsImmunity Therapy Center in Tijuana, Mexico, provides alternative cancer treatments. (https://www.youtube.com/watch?v=SJ0ieCi8W-I)\nVideo: Revolutionize Your Fight: Customized Immunity Therapy Programs for Cancer in Mexico — Exploring Alternative Cancer Treatment in Mexico for Advanced HealingPatients worldwide facing challenging medical diagnoses are increasingly looking beyond conventional protocols to find comprehensive healing options. (https://www.youtube.com/watch?v=GoIUKWZbgNQ)\nVideo: What One Patient Says About Alternative Stage 4 Breast Cancer Treatment in Mexico — Stage 4 Breast Cancer Treatment in Mexico: Maria&#39;s Patient StoryMaria Petulla, a patient from Brooklyn, New York, was diagnosed with stage 4 breast cancer that had spread to the bone. (https://www.youtube.com/watch?v=6I1SLBkCCWc)\nVideo: Advanced Holistic Options: Alternative Stage 4 Prostate Cancer Treatment in Tijuana, Mexico — Alternative Stage 4 Prostate Cancer Treatment in Tijuana MexicoReceiving an advanced oncological diagnosis presents one of the most overwhelming challenges a patient can face, prompting many to look beyond conventional hospital walls for viable solutions. (https://www.youtube.com/watch?v=5eAFRBCXhlo)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: A Complete Care Guide for Alternative AML Leukemia Procedures in Mexico — A Complete Care Guide for Alternative AML Leukemia Procedures in MexicoWesley White&rsquo;s story follows his experience seeking alternative AML leukemia treatment in Mexico after being diagnosed with an aggressive form of acute myeloid leukemia involving an FLT3 mutation. (https://www.youtube.com/watch?v=1_hvegHBi14)\nVideo: Understanding Advanced Immunotherapy as a Cancer Treatment Option in Mexico — Understanding Advanced Immunotherapy Cancer Treatment in MexicoWhen exploring alternative and progressive oncology care, understanding advanced immunotherapy cancer treatment in Mexico offers patients a powerful new perspective on combating disease. (https://www.youtube.com/watch?v=VhTMgBtU8nQ)\nVideo: Whole-Person Healing: Comprehensive Holistic Care as Alternative Cancer Treatment in Mexico — Comprehensive Alternative Cancer Treatment in Mexico for Advanced HealingSeeking effective alternative cancer treatment in Mexico has become a primary choice for individuals looking to bypass the harsh side effects of conventional medical therapies. (https://www.youtube.com/watch?v=htWXQilS91k)\nVideo: A Survivor’s Story: Alternative Stage 4 Breast Cancer Treatment That Worked in Mexico — Alternative Stage 4 Breast Cancer Treatment in Mexico: Pamela&rsquo;s Patient StoryA Stage 4 breast cancer diagnosis can have a major impact on a patient&rsquo;s health, mobility, comfort, and emotional well-being. (https://www.youtube.com/watch?v=AlmBBSMDazE)\nVideo: Designing a Holistic Nutrition Diet Plan for Alternative Cancer Treatment in Mexico — The Vital Role of Nutrition in Alternative Cancer Treatment in MexicoSeeking effective alternative cancer treatment in Mexico involves a comprehensive approach that goes far beyond conventional therapies, placing a massive emphasis on holistic nutritional healing. (https://www.youtube.com/watch?v=72UBMJ07ksQ)\nVideo: Step-by-Step: Alternative Colon Cancer Treatment Procedures Available in Mexico — Comprehensive Guide to Alternative Colon Cancer Treatment Procedure in MexicoReceiving a cancer diagnosis is a life-altering event that requires careful consideration of all available medical options. (https://www.youtube.com/watch?v=rBDsUooYfSo)\nVideo: Eating for Healing: A Complete Dietary Guide to Alternative Cancer Nutritional Therapy in Mexico — Comprehensive Alternative Cancer Nutritional Therapy in MexicoFighting complex diseases requires a robust foundation built on proper, targeted nutrition. (https://www.youtube.com/watch?v=5nqW76wSN84)\nVideo: An Honest ITC Review of Alternative Stage 4 Breast Cancer Treatment in Tijuana, Mexico — Finding Hope with Alternative Stage 4 Breast Cancer Treatment in Tijuana, MexicoWhen faced with a late-stage diagnosis, many patients find themselves searching for comprehensive, personalized medical options outside the confines of standard oncology. (https://www.youtube.com/watch?v=sr_QhheHrJY)\nVideo: How Advanced Rife Machine Therapy Enhances Alternative Cancer Treatment Protocols in Mexico — Advanced Rife Machine Therapy for Alternative Cancer Treatment in MexicoAdvanced Rife machine therapy for alternative cancer treatment in Mexico represents a significant paradigm shift in integrative oncology. (https://www.youtube.com/watch?v=L3yidtVG8hw)\nVideo: Deep Dive: Ultraviolet Blood Irradiation Therapy and Its Benefits in Mexico — Understanding Ultraviolet Blood Irradiation Therapy in MexicoPatients seeking advanced immunological treatments are increasingly turning to Ultraviolet Blood Irradiation Therapy in Mexico for its profound impact on systemic health and cellular function. (https://www.youtube.com/watch?v=3klPTZXwDFQ)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Everything You Need to Know About Alternative Cancer Treatment at Immunity Therapy Center Mexico — Complete Guide to Alternative Cancer Treatment in Mexico at Immunity Therapy CenterDeciding on the right medical care path is one of the most critical choices a patient can make, especially when seeking alternative cancer treatment in Mexico. (https://www.youtube.com/watch?v=tuuEs0bCZzA)\nVideo: Combining Holistic and Alternative Cancer Treatment at Immunity Therapy Center, Mexico — Discover Comprehensive Alternative Cancer Treatment in MexicoReceiving a severe medical diagnosis often thrusts patients and their families into a confusing maze of clinical jargon and limited therapeutic options. (https://www.youtube.com/watch?v=O4I8P96PVO0)\nVideo: Boosting Your Immune System: Holistic Immunotherapy Solutions for Cancer in Mexico — Unlocking Hope With Alternative Cancer Treatment in MexicoWhen facing a severe diagnosis, exploring every medical avenue becomes the utmost priority for patients and their devoted families. (https://www.youtube.com/watch?v=5SQKrTrHclc)\nVideo: The Ultimate Patient Guide to Advanced Alternative Stage 4 Cancer Treatment in Mexico — Alternative Stage 4 Cancer Treatment in Mexico: Debbie&rsquo;s Patient StoryFor patients researching alternative Stage 4 cancer treatment in Mexico , patient experiences can provide valuable insight into what treatment abroad may involve. (https://www.youtube.com/watch?v=oL74cetELTA)\nVideo: Stage 4 Hope: Holistic Alternative Ovarian Cancer Treatment in Tijuana, Mexico — Alternative Ovarian Cancer Treatment in Tijuana, Mexico: A Journey of Restored HopeFacing a severe medical crisis often leaves individuals feeling completely cornered by the strict limitations of conventional medicine. (https://www.youtube.com/watch?v=j-Z-sJukSEI)\nVideo: Targeted Holistic Care: Alternative Triple-Positive Breast Cancer Treatment in Tijuana, Mexico — Comprehensive Guide to Alternative Triple-Positive Breast Cancer Treatment in Tijuana, MexicoWhen faced with a severe and aggressive diagnosis, finding the right alternative triple-positive breast cancer treatment in Tijuana, Mexico can be a life-saving decision. (https://www.youtube.com/watch?v=MVXwDg977hg)\nVideo: Why Immunity Therapy Center Leads in Advanced Alternative Cancer Treatment in Mexico — Advanced Alternative Cancer Treatment in MexicoFinding an effective alternative cancer treatment in Mexico has become a primary objective for thousands of patients seeking comprehensive, integrative oncology care worldwide. (https://www.youtube.com/watch?v=yWfi5aPZRdI)\nVideo: A Detailed Resource for Alternative Breast Cancer Treatment Options in Mexico — Evaluating Effective Alternative Breast Cancer Treatment in MexicoFacing a metastatic diagnosis can be an incredibly overwhelming experience, but finding the right holistic care path can fundamentally transform the healing process. (https://www.youtube.com/watch?v=5ckv7JBFP-4)\nVideo: A Patient’s Journey: Alternative Treatment for Stage 4 Neuroendocrine Carcinoid Cancer in Mexico — Stage 4 Neuroendocrine Carcinoid Cancer Alternative Treatment in MexicoNavigating a severe medical diagnosis requires exploring every viable option, especially when seeking a long-term strategy for survival. (https://www.youtube.com/watch?v=eXiXx7oAspw)\nVideo: In-Depth Holistic Therapy Reviews for Alternative Prostate Cancer Treatment in Mexico — Comprehensive Alternative Prostate Cancer Treatment in MexicoFinding a highly effective Alternative Prostate Cancer Treatment in Mexico has become a priority for countless patients seeking to look beyond conventional oncology. (https://www.youtube.com/watch?v=4IjF7Km_xnY)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Melissa’s Holistic Healing: How Alternative Cancer Treatment in Mexico Changed Her Life — Alternative Cancer Treatment in Mexico: A Holistic Healing Journey for Hodgkin&#39;s LymphomaFinding the right alternative cancer treatment in Mexico has become a primary goal for many individuals seeking holistic, non-invasive therapies outside the conventional medical system. (https://www.youtube.com/watch?v=ikbozRWhuWI)\nVideo: One Complete Success Journey: Alternative Cancer Treatment in Mexico from Start to Finish — Comprehensive Guide to Alternative Cancer Treatment in MexicoWhen faced with a severe diagnosis, exploring an alternative cancer treatment in Mexico offers patients a strategic pathway toward long-term recovery and immune system restoration. (https://www.youtube.com/watch?v=tLy1MkJI5XQ)\nVideo: Beating Aggressive Lymphoma with Alternative Cancer Treatment in Tijuana, Mexico — Comprehensive Guide to Overcoming B-Cell Lymphoma: Exploring Alternative Cancer Treatment in Tijuana MexicoWhen faced with a rapid and severe diagnosis, finding the right path forward can feel overwhelming, leading many patients to seek alternative cancer treatment in Tijuana Mexico. (https://www.youtube.com/watch?v=1ISHLrpWQDc)\nVideo: Your Complete Guide to Alternative Cancer Treatment at Immunity Therapy Center, Mexico — Comprehensive Guide to Alternative Cancer Treatment in Mexico: Dr. (https://www.youtube.com/watch?v=9IWg1ROUVsI)\nVideo: Road to Remission: Alternative Lymphoblastic Lymphoma Treatment in Mexico — Alternative Lymphoblastic Lymphoma Treatment in Mexico: Redefining Cancer RecoveryWhen faced with a highly aggressive cancer diagnosis, patients often find themselves racing against the clock to discover the most effective medical interventions available globally. (https://www.youtube.com/watch?v=7YSTwlDiBPU)\nVideo: Against All Odds: Inspiring Survival with Stage 4 Small Cell Carcinoma Alternative Treatment in Mexico — Overcoming Stage 4 Small Cell Carcinoma with Alternative Cancer Treatment in MexicoFinding an effective alternative cancer treatment in Mexico has become a beacon of hope for many patients facing dire prognoses. (https://www.youtube.com/watch?v=xA8Qh25o-ys)\nVideo: A Healing Journey Through Alternative Myeloma Bone Marrow Cancer Treatment in Mexico — Alternative Treatment for Myeloma Bone Marrow Cancer in MexicoWhen faced with a devastating terminal diagnosis, patients are often forced to look beyond conventional medical paradigms to find genuine hope. (https://www.youtube.com/watch?v=mpCU9OxqqaM)\nVideo: Safety Questions Answered: Is Alternative Cancer Treatment in Tijuana, Mexico Right for You? — Evaluating the Safety of Alternative Cancer Treatment in Tijuana, MexicoMaking the decision to pursue alternative cancer treatment in Tijuana, Mexico involves careful consideration of both medical options and personal security. (https://www.youtube.com/watch?v=A-1Hlyr-YV0)\nVideo: Rick’s Success: Advanced Bladder Cancer Alternative Treatment in Mexico — Advanced Bladder Cancer Alternative Treatment in Mexico: A Healing JourneyReceiving a severe oncology diagnosis can be a life-altering moment, especially when standard medical protocols offer little hope for recovery. (https://www.youtube.com/watch?v=rwpfPXPxKcw)\nVideo: How One Patient Beat Stage 3 Rectal Cancer with Alternative Treatment in Mexico — Alternative Rectal Cancer Treatment in Mexico: A Stage 3 Patient StoryA stage 3 cancer diagnosis can lead patients and families to research different treatment options and medical centers. (https://www.youtube.com/watch?v=ShCfR_uV38o)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Hope for Stage 4 Gastric Cancer: Alternative Treatment Options in Tijuana, Mexico — Transformative Stage 4 Gastric Cancer Alternative Treatment in Tijuana, MexicoReceiving a severe medical diagnosis alters the trajectory of a patient&#39;s life instantly. (https://www.youtube.com/watch?v=OJ_RF8_RENw)\nVideo: Fighting Advanced Disease: Stage 4 Stomach Cancer Alternative Treatment in Tijuana, Mexico — Stage 4 Stomach Cancer Alternative Treatment in Tijuana, Mexico: Diane&#39;s Remarkable RecoveryReceiving a terminal diagnosis forces individuals to seek out every possible avenue for survival when standard medical protocols offer no further options. (https://www.youtube.com/watch?v=xHNEqN6LcVg)\nVideo: A Stage 2B Survivor’s Guide to Choosing Alternative Breast Cancer Treatment in Mexico — Sherri&#39;s Journey with Alternative Breast Cancer Treatment in MexicoA stage 2B breast cancer diagnosis is a highly impactful medical event that alters the course of a patient&#39;s life instantly. (https://www.youtube.com/watch?v=7M1gqJhjlsw)\nVideo: No Surgery, No Chemo: A Non-Invasive Healing Journey with Alternative Cancer Treatment in Mexico — Alternative Cancer Treatment in Mexico: Navigating Non-Invasive Paths to HealingReceiving a severe medical diagnosis often pushes individuals to search for the most effective alternative cancer treatment in Mexico. (https://www.youtube.com/watch?v=owBesApGbZs)\nVideo: From Diagnosis to Recovery: Alternative GIST Treatment Journey in Mexico — Alternative Gastrointestinal Stromal Tumor (GIST) Treatment in Mexico: Joseph&#39;s JourneyFinding an effective and alternative gastrointestinal stromal tumor (GIST) treatment in Mexico has become a beacon of hope for international patients seeking natural approaches to complex oncological conditions. (https://www.youtube.com/watch?v=2aIwzSFzVRs)\nVideo: Going Natural: A Healing Journey with Alternative Breast Cancer Treatment in Mexico — Alternative Breast Cancer Treatment in Mexico: Navigating Holistic HealingReceiving a severe medical diagnosis instantly changes your perspective on health, longevity, and the standard medical system. (https://www.youtube.com/watch?v=t51IXhmH044)\nVideo: Patient Review: Holistic Recovery via Alternative Prostate Cancer Treatment in Mexico — Alternative Prostate Cancer Treatment in Mexico: A Journey to Holistic HealingWhen patients receive a daunting diagnosis, exploring an alternative prostate cancer treatment in Mexico often becomes a beacon of hope for those seeking holistic healing outside the conventional medical paradigm. (https://www.youtube.com/watch?v=tPCdAqFPW-M)\nVideo: Real Survival: Overcoming Stage 4 Bladder Cancer with Alternative Treatment in Mexico — Comprehensive Guide to Alternative Stage 4 Bladder Cancer Treatment in MexicoFinding an effective alternative stage 4 bladder cancer treatment in Mexico represents a critical turning point for patients navigating severe oncological challenges. (https://www.youtube.com/watch?v=j9QVeTHRBr8)\nVideo: Martin’s Incredible Survival: Alternative Treatment for Stage 4 Pancreatic Cancer in Mexico — Stage 4 Pancreatic Cancer Alternative Treatment in MexicoReceiving a severe medical diagnosis completely alters the trajectory of your life in an instant. (https://www.youtube.com/watch?v=5V7q8csv6ms)\nVideo: A Holistic Approach to Stage 3 Prostate Cancer: Alternative Treatment in Mexico — Alternative Stage 3 Prostate Cancer Treatment in Mexico: A First Responder&#39;s Healing JourneyReceiving an advanced cancer diagnosis can instantly disrupt every facet of a person&#39;s life, prompting an urgent search for effective medical solutions. (https://www.youtube.com/watch?v=rcM8snt_EuY)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Arthur’s Remission: How Alternative Non-Small Cell Lung Cancer Treatment in Mexico Worked — Alternative Non-Small Cell Lung Cancer Treatment in MexicoFinding a reliable alternative non-small cell lung cancer treatment in Mexico has become a beacon of hope for many patients worldwide. (https://www.youtube.com/watch?v=OesLwfwRup8)\nVideo: Restoring Hope Through Innovative Care: A Guide to Alternative Cancer Treatment in Mexico — Discovering the Best Alternative Cancer Treatment in Mexico at Immunity Therapy CenterWhen facing a complex medical diagnosis, exploring every available option becomes the absolute highest priority for patients and their devoted families. (https://www.youtube.com/watch?v=BocOE7rL5uI)\nVideo: One Patient’s Healing Journey Through Comprehensive Alternative Cancer Treatment in Tijuana, Mexico — Transformative Alternative Cancer Treatment in Tijuana, MexicoWhen facing complex health challenges, an increasing number of patients are exploring advanced alternative cancer treatment in Tijuana, Mexico to find highly personalized care. (https://www.youtube.com/watch?v=4HZoSLabIyk)\nVideo: Tailored to You: Personalized Cancer Treatment Using Advanced Alternative Therapies in Mexico — Personalized Cancer Treatment in MexicoFinding the right path for oncology care can be overwhelming, especially when traditional medical options fall short of expectations. (https://www.youtube.com/watch?v=mSPhowa_A1g)\nVideo: Detailed Overview of Advanced Alternative Cancer Treatment Procedures Offered in Mexico — Comprehensive Alternative Cancer Treatment Procedures in MexicoWhen navigating the complexities of chronic illness, many patients seek out an advanced alternative cancer treatment procedure in Mexico to expand their healing options. (https://www.youtube.com/watch?v=oXT509-WstI)\nVideo: Rebuilding Strength: Comprehensive Physiotherapy for Cancer Patients at Immunity Therapy Center Mexico — Comprehensive Physiotherapy for Cancer Patients at Immunity Therapy Center in MexicoNavigating a cancer diagnosis frequently necessitates a deeply multifaceted approach to overall healing and recovery. (https://www.youtube.com/watch?v=Y_pXEVaKoy4)\nVideo: Chris’s Victory: A Success Story of Stage 4 Non-Hodgkin’s Lymphoma Treatment in Mexico — Chris&rsquo;s Victory: A Success Story of Stage 4 Non-Hodgkin&rsquo;s Lymphoma Treatment in MexicoChris Queenan traveled from Australia to Mexico after being diagnosed with Stage 4 Non-Hodgkin&rsquo;s Lymphoma and searching for additional treatment options. (https://www.youtube.com/watch?v=mMy_IUyIRuA)\nVideo: Understanding the Biological Dentistry Procedure: A Complete Guide for Mexico Patients — Complete Guide to the Biological Dentistry Procedure in MexicoAre you struggling with chronic, unexplained health issues and suspect your oral health might be the hidden culprit? Finding the right biological dentistry procedure in Mexico could be the crucial missing link in your complete wellness journey. (https://www.youtube.com/watch?v=qN7A6PeDgCA)\nVideo: Revisiting Your Options: A Second Comprehensive Guide to Alternative Cancer Treatment in Mexico — Comprehensive Guide to Alternative Cancer Treatment in MexicoWhen facing a complex oncology diagnosis, countless patients search for viable options beyond standard pharmaceutical protocols and aggressive radiation. (https://www.youtube.com/watch?v=dIVnVtRwsjA)\nVideo: How Intratumoral Immunotherapy Delivers Targeted Cancer Treatment – A Mexico Protocol Guide — Intratumoral Immunotherapy in Mexico: Advanced Alternative Cancer CareAre you exploring advanced and highly targeted clinical oncology options? Intratumoral immunotherapy in Mexico is rapidly emerging as a highly effective medical procedure for patients seeking precise alternative cancer treatments. (https://www.youtube.com/watch?v=CsmgGr3XPnY)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: An All-in-One Resource for Exploring Alternative Cancer Treatment in Mexico — Comprehensive Guide to Alternative Cancer Treatment in MexicoA cancer diagnosis often leaves patients and their families searching for comprehensive care options that go beyond conventional medical approaches. (https://www.youtube.com/watch?v=YZsPl9X2FqA)\nVideo: Advanced Alternative Cancer Treatment Therapies Available in Mexico — Advanced Alternative Cancer Treatment in Mexico: Restoring Hope and Reclaiming LifeWhen faced with a life-altering diagnosis, individuals often seek out the most effective and compassionate care available globally. (https://www.youtube.com/watch?v=1rv5icqPqds)\nVideo: Why Patients Choose Immunity Therapy Center Tijuana for Alternative Cancer Treatment in Mexico — Advanced Alternative Cancer Treatment at Immunity Therapy Center in MexicoFinding the right path for healing is a profound journey for anyone facing a difficult diagnosis. (https://www.youtube.com/watch?v=hB2E5zAcVds)\nVideo: A Complete Guide to Ultraviolet Blood Irradiation (UVB) Therapy in Mexico — Comprehensive Guide to Ultraviolet Blood Irradiation Therapy in MexicoPatients seeking comprehensive and integrative medical solutions are increasingly turning to advanced options like Ultraviolet Blood Irradiation Therapy in Mexico. (https://www.youtube.com/watch?v=l_nA3vaRQxE)\nVideo: One Patient’s Advanced Stage 4 Lung Cancer Alternative Treatment Experience in Mexico — Advanced Stage 4 Lung Cancer Alternative Treatment in MexicoReceiving a late-stage oncological diagnosis drastically changes a patient&#39;s medical trajectory. (https://www.youtube.com/watch?v=EZFywj420QU)\nVideo: Step-by-Step: Comprehensive Alternative Cancer Treatment at ITC Mexico — Comprehensive Guide to Alternative Cancer Treatment in MexicoWhen navigating a complex diagnosis, exploring every viable path to cellular healing becomes an urgent and critical priority. (https://www.youtube.com/watch?v=xiqwNqLVVr8)\nVideo: Real Patient Reviews and Success Stories of Holistic Alternative Cancer Treatment in Mexico — Comprehensive Guide to Alternative Cancer Treatment in MexicoChoosing the right path for medical care after a severe diagnosis is a life-altering decision, and many patients are now seeking out an alternative cancer treatment in Mexico to complement or replace conventional approaches. (https://www.youtube.com/watch?v=gq-dIpE0h7Y)\nVideo: Advanced Options: Stage 4 Prostate Cancer Alternative Treatment Available in Tijuana, Mexico — Stage 4 Prostate Cancer Alternative Treatment in Tijuana, MexicoPatients diagnosed with advanced prostate cancer sometimes explore additional or integrative care when they want to better understand all available treatment options. (https://www.youtube.com/watch?v=G96h0ON_FY0)\nVideo: Using Nutrition to Heal: A Guide to Alternative Cancer Diet Therapy in Mexico — Comprehensive Guide to Alternative Cancer Diet Therapy in MexicoChoosing the right nutritional path is a critical component of holistic wellness, especially for individuals seeking alternative cancer diet therapy in Mexico. (https://www.youtube.com/watch?v=7q6Tpy-nMpA)\nVideo: The Holistic Approach: A Complete Guide to Alternative Cancer Treatment Options in Mexico — Alternative Cancer Treatment in Mexico: Why Patients Are Choosing TijuanaReceiving a severe health diagnosis is one of the most overwhelming experiences a person can face, often leaving patients feeling lost in a maze of medical bureaucracy. (https://www.youtube.com/watch?v=KABemhk5qqA)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Embracing Holistic Care: A Personal Journey Through Alternative Breast Cancer Treatment in Mexico — Alternative Breast Cancer Treatment in Mexico: A Holistic Patient JourneyDiscovering a viable alternative breast cancer treatment in Mexico can completely transform a patient&#39;s healing journey. (https://www.youtube.com/watch?v=mzqhQGuWpUA)\nVideo: From Stage 4 to Remission: An Alternative Breast Cancer Treatment Success Story in Mexico — Alternative Breast Cancer Treatment in Mexico: Jessica&rsquo;s Stage 4 Patient StoryAfter being diagnosed with stage 4 metastatic breast cancer, Jessica Friedland faced significant physical and emotional challenges. (https://www.youtube.com/watch?v=Dp9WZ6nIlPg)\nVideo: Real Results: One Patient’s Experience with Stem Cell Therapy for Osteoarthritis in Mexico — Stem Cell Therapy for Osteoarthritis in Mexico: An Alternative to SurgeryFinding an effective alternative to highly invasive procedures is a top priority for patients facing chronic joint degradation. (https://www.youtube.com/watch?v=S78qQRRvsyM)\nVideo: A Patient’s Experience with Transformative Stem Cell Therapy for Chronic Back Pain in Mexico — Transformative Stem Cell Therapy in Mexico for Chronic Back PainLiving with chronic spinal discomfort can severely diminish your overall quality of life, prompting many individuals to actively seek alternative regenerative solutions. (https://www.youtube.com/watch?v=4Duv4VKRRUc)\nVideo: How High-Dose IV Therapy Supports Alternative Cancer Treatment Protocols in Mexico — Advanced IV Therapy in Mexico: Comprehensive Intravenous Treatments for Cancer and Chronic DiseasesWhen facing a severe diagnosis, patients increasingly seek integrative medical solutions that go beyond conventional care limitations. (https://www.youtube.com/watch?v=9Xbf-lYNn-M)\nVideo: Boosting Immunity: Advanced Ozone and Oxygen Therapy as Integrative Medical Care in Mexico — Advanced Ozone and Oxygen Therapy in Mexico for Integrative HealingFinding effective alternative cancer treatments in Mexico has become a priority for patients seeking integrative and holistic medical care. (https://www.youtube.com/watch?v=iqEQkMjaaSg)\nVideo: One Patient’s Journey with Alternative Follicular Lymphoma Treatment in Mexico — Alternative Follicular Lymphoma Treatment in MexicoFinding an effective alternative follicular lymphoma treatment in Mexico has become a primary objective for many patients seeking non-toxic cancer therapies. (https://www.youtube.com/watch?v=rdxDTuMXOCk)\nVideo: Patient Review: Holistic Stage 4 Breast Cancer Treatment at ITC Tijuana, Mexico — Holistic Stage 4 Breast Cancer Treatment in Mexico: A Survivor&#39;s Detailed ReviewReceiving a metastatic breast cancer diagnosis requires immediate and decisive medical intervention. (https://www.youtube.com/watch?v=LdJM8CSmOj0)\nVideo: Holistic Healing Success: An Alternative Breast Cancer Treatment Story from Mexico — Alternative Breast Cancer Treatment in Mexico: A Holistic Healing JourneyFinding the right alternative breast cancer treatment in Mexico can completely transform a patient&#39;s healing trajectory. (https://www.youtube.com/watch?v=_zPPc7m6I4Q)\nVideo: Alternative Healing at Immunity Therapy Center in Tijuana, Mexico – What Patients Experience — When faced with a daunting and complex health diagnosis, navigating the endless maze of treatment options can feel completely overwhelming. (https://www.youtube.com/watch?v=2DX8NsM-s0Q)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: A Holistic Success Story – Alternative Non-Hodgkin’s Lymphoma Treatment in Tijuana, Mexico — A severe cancer diagnosis is profoundly life-altering, but what happens when the recommended medical treatment feels more threatening than the disease itself? For individuals diagnosed with advanced forms of Non-Hodgkin&#39;s Lymphoma, highly aggressive chemotherapy is typically presented as the only viable path forward. (https://www.youtube.com/watch?v=Ej9bdCoClyQ)\nVideo: Holistic Strategies for Cancer Pain Management – Enhancing Quality of Life in Tijuana, Mexico — Receiving a cancer diagnosis alters the trajectory of a person&#39;s life, bringing forth an overwhelming wave of physical and emotional challenges. (https://www.youtube.com/watch?v=8SySmIgNJD4)\nVideo: Hope, Healing, and Holistic Care – Alternative Cancer Treatment in Tijuana, Mexico — A terminal cancer diagnosis is one of the most devastating moments an individual and their loved ones can face. (https://www.youtube.com/watch?v=I1EpQvTrbHg)\nVideo: Hyperthermia Therapy for Cancer – How Immunity Therapy Center in Tijuana, Mexico Uses It — Welcome to the forefront of integrative oncology. (https://www.youtube.com/watch?v=pzfF9bkCDlk)\nVideo: Managing Medical Records for International Healthcare and Medical Tourism in Tijuana, Mexico – Best Practices — About this guide: Navigating international medical records management is a critical step for patients seeking alternative treatments abroad. (https://www.youtube.com/watch?v=fHxJZPO__uU)\nVideo: IV Chelation Therapy for Heavy Metal Detoxification – Benefits and Process in Tijuana, Mexico — About this comprehensive guide: Are you suffering from unexplained chronic fatigue, persistent brain fog, or severe systemic inflammation? The hidden culprit might be lingering deep within your cellular structure. (https://www.youtube.com/watch?v=Kd6G2mZKSbg)\nVideo: Aline Reves’s Journey with Alternative Pancreatic Cancer Treatment in Tijuana, Mexico by ITC — Receiving a severe cancer diagnosis can feel like navigating an impossible maze with limited options. (https://youtu.be/m7LWrEijALM)\nVideo: Livia Bilek from Canada’s Experience with Stage 4 Breast Cancer Treatment in Tijuana, Mexico by ITC — A cancer diagnosis is one of the most terrifying events a person can face, especially when the prognosis is grim. (https://youtu.be/nYtq83reXMM)\nVideo: Mollie’s Healing Journey – Alternative Brain Cancer Treatment That Worked in Tijuana, Mexico — A brain cancer diagnosis can leave patients and families facing difficult medical and emotional decisions, especially when a tumor is considered inoperable. (https://www.youtube.com/watch?v=nrPFidfXSS4)\nVideo: Finding Hope Beyond Conventional Medicine – A Healing Journey at Immunity Therapy Center in Tijuana, Mexico — Receiving an aggressive cancer diagnosis is one of the most frightening experiences a person can face, especially when conventional medical professionals offer little to no hope. (https://www.youtube.com/watch?v=7K1GJA1tz2A)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Immunity Therapy Center’s Alternative Cancer Treatments in Tijuana, Mexico – Patient Stories and Protocols — When facing a severe health crisis, many patients feel locked into a single path of conventional medicine, often enduring immense physical trauma. (https://www.youtube.com/watch?v=IYa0jEPXu50)\nVideo: Stem Cell Therapy for Back Pain in Tijuana, Mexico – What to Expect — Are you seeking highly effective stem cell therapy for back pain in Tijuana to finally reclaim your mobility? Millions of patients suffer from chronic spinal degradation, yet traditional medicine often limits them to addictive pain medications or high-risk, invasive surgeries. (https://www.youtube.com/watch?v=4Duv4VKRRUc)\nVideo: Healing Beyond Borders – Alternative Cancer and Diabetes Treatment in Tijuana, Mexico — For thousands of individuals diagnosed with severe chronic illnesses, the conventional medical system often feels like an exhausting cycle of managing symptoms rather than addressing the root cause of disease. (https://www.youtube.com/watch?v=5xQiYZpONmI)\nVideo: Tijuana Medical Tourism Safety – Real Patient Experiences and Tips in Mexico — When considering cross-border healthcare, medical tourism inTijuanasafety is often the very first concern that comes to mind. (https://www.youtube.com/watch?v=N6LPRKC2TEw)\nVideo: Kelly’s Journey to Healing with Holistic Cancer Treatment in Tijuana, Mexico — Receiving a cancer diagnosis is terrifying, leading many into a desperate search for solutions. (https://www.youtube.com/watch?v=nxnWnlTj8CU)\nVideo: Synovial Sarcoma Success Story – Alternative Cancer Treatment in Tijuana, Mexico — Synovial Sarcoma Patient Story: Alternative Cancer Treatment in Tijuana, MexicoPatients diagnosed with a rare cancer such as synovial sarcoma may explore additional treatment options when the disease continues to progress or when they want to understand integrative approaches available outside their home country. (https://www.youtube.com/watch?v=r53uyMBAg8w)\nVideo: Immunity Therapy Center’s Integrative Medicine and Alternative Therapies in Tijuana, Mexico – A Deep Look — Are you searching for a more comprehensive, holistic approach to healing from a severe chronic illness? Today, millions of individuals face the daunting reality of navigating cancer, autoimmune disorders, and degenerative diseases using only conventional methods. (https://www.youtube.com/watch?v=9LvIP8lTMDU)\nVideo: Advanced Immune Therapies for Cancer and Chronic Illness – Breakthroughs and Results in Tijuana, Mexico — Welcome to the complete guide on advanced immune therapies for cancer and chronic illness. (https://www.youtube.com/watch?v=m0oZTL0rRhs)\nVideo: Alternative Cancer Therapies: Exploring Integrative Treatment Modalities at Immunity Therapy Center — In modern oncology and chronic disease management, the conversation around care is expanding beyond traditional methodologies to include supportive, complementary frameworks. (https://www.youtube.com/watch?v=PHjwDlw-jrE)\nVideo: Ozone and Oxygen Therapy in Mexico: Exploring the Alternative Treatment Pillar at Immunity Therapy Center — At Immunity Therapy Center (ITC) in Mexico, Dr. (https://www.youtube.com/watch?v=iqEQkMjaaSg)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: How the Low Glycemic Index Diet Supports Cancer and Chronic Illness Recovery in Tijuana, Mexico — About this comprehensive guide: Navigating a severe health diagnosis requires every available tool, and understanding the low glycemic index diet for cancer and chronic illness recovery is absolutely crucial. (https://www.youtube.com/watch?v=2RFsnM5SwLQ)\nVideo: Stage 4 Cancer to No Evidence of Disease at ITC – Martin’s Miracle Story — { '@context': 'https://schema. (https://youtu.be/5V7q8csv6ms)\nVideo: Intravenous Therapies for Enhanced Wellness | Immunity Therapy Center — Pillar 3: The Power of Intravenous Therapies in Integrative Cancer Treatment and Immune RestorationIn the complex landscape of modern medicine, the search for effective, low-toxicity healing modalities often leads patients to the forefront of integrative care. (https://youtu.be/9Xbf-lYNn-M)\nVideo: Stage 4 Lymphoma Survivor Story: Beating Cancer in Mexico — Stage 4 Lymphoma Recovery Story: How Denise Davison Found Hope and Healing at ITCWhen a patient receives a diagnosis of Stage 4 Lymphoma, the world often seems to stop. (https://youtu.be/LHxfjM0DNNw)\nVideo: From Diagnosis to Healing: Gareth’s Alternative Cancer Treatment Story in Tijuana — Comprehensive Guide to Alternative Follicular Lymphoma Treatment: Gareth&rsquo;s Success Story at Immunity Therapy CenterReceiving a diagnosis of follicular lymphoma can feel like an insurmountable weight, especially when traditional medical pathways offer limited hope or involve aggressive treatments with debilitating side effects. (https://youtu.be/rdxDTuMXOCk)\nVideo: A New Chance at Life: Teresa’s Metastatic Breast Cancer Journey at ITC — Teresa&rsquo;s Metastatic Breast Cancer Journey at ITC in Tijuana, MexicoWhen Teresa Bell Wilson was diagnosed with recurrent metastatic breast cancer that had spread to her bones, she faced a difficult and life-changing moment. (https://youtu.be/LjBKBt59PsA)\nVideo: The Ultimate Guide to Alternative Stage 4 Breast Cancer Treatment in Tijuana: Hope Through Integrative Oncology — The Reality of Metastatic Stage 4 Breast CancerAbout this video: Receiving a metastatic stage 4 breast cancer diagnosis often feels like a dead end in traditional medical systems where palliative care becomes the primary focus. (https://youtu.be/YWkMcs4uBLU)\nVideo: How Lydia Yoder’s Life Changed After Colon Cancer Treatment in Tijuana, Mexico at ITC — Stage 4 Colon Cancer Treatment in Tijuana, Mexico: Lydia Yoder&rsquo;s Experience at ITCAbout this video: Receiving a Stage 4 cancer diagnosis can be life-changing for patients and their families. (https://youtu.be/8y8w0Q5OEMA)\nVideo: Jack Conkey's Prostate Cancer Care at Immunity Therapy Center in Tijuana, Mexico — Jack Conkey's Prostate Cancer Care at Immunity Therapy Center in Tijuana, Mexico Receiving a cancer diagnosis is one of the most frightening experiences a man can endure, often followed by immense pressure to undergo aggressive, life-altering treatments. (https://youtu.be/z-zziNBsm0c)\nVideo: Pamela Carrillo's Breast Cancer Treatment with Immunity Therapy Center in Tijuana, Mexico — Pamela Carrillo&#39;s Breast Cancer Treatment with Immunity Therapy Center in Tijuana, MexicoA breast cancer diagnosis can bring difficult decisions about treatment, side effects, quality of life, and the type of medical support a patient wants throughout care. (https://youtu.be/aUQvQxc-0Vs)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Patricia Gale's Breast Cancer Treatment Journey at Immunity Therapy Center Mexico — Patricia Gale&#39;s Breast Cancer Treatment Journey at Immunity Therapy Center MexicoA cancer diagnosis often feels like the ground has vanished beneath your feet. (https://youtu.be/02afeoiQAIo)\nVideo: John Sager's Esophageal Cancer Treatment Experience at Immunity Therapy Center in Tijuana, Mexico — Exploring John Sager's Esophageal Cancer Treatment Experience at Immunity Therapy Center in Tijuana, Mexico Facing a severe medical diagnosis requires immense courage, and John Sager's esophageal cancer treatment experience at Immunity Therapy Center in Tijuana, Mexico, highlights a powerful alternative path for healing. (https://youtu.be/ZDQc87Vvw_k)\nVideo: John Russel's Myeloma Cancer Journey at Immunity Therapy Center in Tijuana, Mexico — John Russel's Myeloma Cancer Journey at Immunity Therapy Center in Tijuana, Mexico A cancer diagnosis is often described as a sudden, earth-shattering moment that completely derails a person's life trajectory. (https://youtu.be/4FMKyOFj-YA)\nVideo: Bette Johnson's Road to Breast Cancer Treatments in Tijuana, Mexico at Immunity Therapy Center — Bette Johnson's Road to Breast Cancer Treatments in Tijuana, Mexico at Immunity Therapy Center Hearing a cancer diagnosis is a life-altering moment that leaves many patients feeling powerless. (https://youtu.be/Th5Cj3qgjv8)\nVideo: William Shaffer Fox's Path to Prostate Cancer Treatment in Tijuana, Mexico at Immunity Therapy Center — Prostate Cancer Treatment in Tijuana, Mexico: William Shaffer Fox&#39;s Journey at Immunity Therapy CenterAfter receiving a prostate cancer diagnosis, William Shaffer Fox began researching treatment options beyond the standard approaches available to him at home. (https://youtu.be/YVsfamlyfEw)\nVideo: Adrianne's Remarkable Story with Lung Cancer Treatment in Tijuana Mexico — Adrianne&#39;s Remarkable Story with Lung Cancer Treatment in Tijuana, MexicoFor patients facing a serious lung cancer diagnosis, exploring available treatment options can become an important part of the journey. (https://youtu.be/ue-sLaGHUeo)\nVideo: Hope Renewed: Clara's Breast Cancer Treatment Odyssey in Tijuana — Hope Renewed: Clara's Breast Cancer Treatment Odyssey in Tijuana A breast cancer diagnosis often feels like a terrifying dead end, but for many courageous patients, it becomes the catalyst for a profound search for true healing. (https://youtu.be/kUUFK4Q2nzg)\nVideo: Prostate Cancer Treatment in Tijuana: Alberto's Inspiring Journey — Prostate Cancer Treatment in Tijuana: Alberto&#39;s Patient JourneyAbout this journey: Receiving a prostate cancer diagnosis can bring uncertainty, difficult treatment decisions, and concerns about quality of life. (https://youtu.be/g7fruwg_vsQ)\nVideo: Marie Dueck's Experience with Stomach Cancer Treatment in Tijuana, Mexico — Marie Dueck's Journey: Overcoming the Odds with Stomach Cancer Treatment in Tijuana, Mexico Facing a severe oncological diagnosis can leave patients feeling powerless, but Marie Dueck's experience with stomach cancer treatment in Tijuana, Mexico, is a powerful testament to the possibilities of modern integrative medicine. (https://youtu.be/Av3ROTKmcCk)\nVideo: Maria Petulla Shares her Story of Breast Cancer Treatment in Tijuana, Mexico — Maria Petulla Shares her Story of Breast Cancer Treatment in Tijuana, MexicoA cancer diagnosis can bring difficult medical decisions, uncertainty and major changes to everyday life. (https://youtu.be/kN67LJeEedA)"
+  },
+  {
+   "source_id": "videos",
+   "source_type": "Clinic videos",
+   "source_url": "https://www.placidway.com/profile-videos/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Tijuana Videos | Alternative Cancer Treatment",
+   "section": "Clinic videos",
+   "text": "Video: Arthur Rivas' Inspirational Journey with Lung Cancer Treatment in Tijuana, Mexico — Arthur Rivas&rsquo; Journey With Lung Cancer Treatment in Tijuana, MexicoArthur Rivas&rsquo; journey with lung cancer treatment in Tijuana, Mexico shares the experience of a patient who explored additional treatment options while facing advanced lung cancer and significant changes in his quality of life. (https://youtu.be/crvJTATVjGw)\nVideo: Alfred Mohammed's Triumph Over Prostate Cancer Treatment in Tijuana, Mexico — Alfred Mohammed&#39;s Prostate Cancer Treatment Journey in Tijuana, MexicoReceiving a prostate cancer diagnosis can lead patients to carefully compare different treatment approaches, potential side effects, costs, and medical providers. (https://youtu.be/BmYrcHBBMcg)\nVideo: Aline Reves Shares Her Journey with Pancreatic Cancer Treatment in Tijuana, Mexico — Aline Reves Shares Her Journey with Pancreatic Cancer Treatment in Tijuana, Mexico Receiving a severe diagnosis can feel paralyzing, but discovering the right pancreatic cancer treatment in Tijuana, Mexico, changed everything for Aline Reves. (https://youtu.be/VpM1o8mtfJY)\nVideo: Debbie Halper's Inspiring Fight Against Ampullary and Liver Cancer with Cutting-edge Treatment in Tijuana, Mexico — Debbie Halper's Inspiring Fight Against Ampullary and Liver Cancer with Cutting-edge Treatment in Tijuana, Mexico When facing a devastating diagnosis, the search for life-saving options often extends far beyond local hospitals. (https://youtu.be/KpOEshd0pHI)\nVideo: Troy Clark's Path to Recovery from Stage 3 Prostate Cancer through Alternative Treatment in Tijuana, Mexico — Troy Clark&#39;s Path to Recovery: Alternative Treatment for Stage 3 Prostate Cancer in Tijuana, MexicoWhen an individual receives a severe medical diagnosis, the world seemingly comes to an abrupt halt. (https://youtu.be/idwHmwgXjBc)\nVideo: Courageous Journey: Gabrielle Friscia's Stage III Hodgkin’s Lymphoma Battle in Tijuana, Mexico — Courageous Journey: Gabrielle Friscia's Stage III Hodgkin’s Lymphoma Battle in Tijuana, Mexico Facing a devastating diagnosis, the search for life-saving alternative cancer treatment in Tijuana, Mexico, became the defining turning point for Gabrielle Friscia. (https://youtu.be/pa5bgQFiAVM)\nVideo: Sadie Conquering Stage 4 Hodgkin Lymphoma in Tijuana, Mexico. — Sadie Conquering Stage 4 Hodgkin Lymphoma in Tijuana, Mexico: A Journey of HealingReceiving an advanced cancer diagnosis can feel overwhelming, but the story of Sadie conquering Stage 4 Hodgkin Lymphoma in Tijuana, Mexico, proves that innovative options exist. (https://youtu.be/8eQRsGydHrM)\nVideo: Karla Leonard's Empowering Testimonial: Conquering Breast Cancer with Alternative Treatment in Tijuana, Mexico — Karla Leonard's Empowering Testimonial: Conquering Breast Cancer with Alternative Treatment in Tijuana, Mexico A breast cancer diagnosis often leaves patients feeling powerless, terrified, and overwhelmed by the harsh realities of conventional oncology. (https://youtu.be/7pOj9deL_4A)"
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Pricings:",
+   "text": "| Procedure | Details | Price in USD | Actions | Breast Cancer | Breast Cancer | $18995 | | Prostate Cancer | Prostate Cancer | $18995 | | Lung Cancer | Lung Cancer | $18995 | | | | $18995 | | Pancreatic Cancer | Pancreatic Cancer | $18995 | | Colorectal Cancer | 18995 USD | $18995 | | Colon Cancer | Colon Cancer | $18995 |"
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "About ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana",
+   "text": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana prices range between in Tijuana, Mexico for Alternative Medicine, Detox, Cancer Treatment, Chronic Diseases procedures and more. This range shows the clinic's promise to offer affordable, top-quality care to a wide range of local and international patients. By offering a variety of pricing options, ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana ensures that patients can choose treatments that not only meet their medical needs but also fit their financial situations. This approach helps to demystify healthcare costs and empowers patients to make informed decisions about their treatment options in Tijuana, Mexico ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana is renowned for its exceptional expertise in delivering Alternative Medicine, Detox, Cancer Treatment, Chronic Diseases procedures and more. The clinic boasts a team of highly skilled professionals, state-of-the-art facilities, and a commitment to using the latest technologies and techniques. Located in Tijuana, Mexico, ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana has established a reputation for excellence and outstanding patient care. Whether you're seeking advanced treatments or comprehensive support, ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana ensures that every patient receives personalized attention and care tailored to their specific needs."
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Reviews",
+   "text": "Beware, the doctors lie to you at this clinic. I recently went down for 3 weeks of treatment for breast cancer. Even though I told them I didn't want their chemo treatment, they assured me it would be really helpful, they would only be using 10% and I would not lose my hair. They lied. I lost all of my hair which started 1 week after I returned home. When contacting my doctor he told me that was so unusual and recommended Minoxidal (which actually makes your hair shed worse before it regrows). This happened to 2 other women I kept in contact with. So it wasn't that unusual. When I followed up to find out what they gave me, it was the MOST toxic of all the chemotherapy treatments and they gave me a 50% dose, not 10%. It makes me question everything they are administering here. It has been extremely stressful which is opposite from what I need healing cancer. I am guessing they push chemo so much because they want results. I later found out the type of cancer I have, isn't responsive to chemotherapy. I would have hoped a clinic like this would have tests to check this. The total disrespect for me to make an informed decision makes me motivated to share my story to help protect others. I regret going here. Spend your money with doctors who are honest. I will say that the nurses were spectacular. They deserve a 10 star rating. But the doctors deserve a -10 for taking advantage of their patients at their most vulnerable."
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "Guest P",
+   "text": "Oct 24 2026 This was my husbands 5th trip to ITC. He goes annually for check-ups and to get an \"immune boost\"! He is always treated like family and gets quality care. We are happy with all aspects of ITC but above all we are happy with the results of his treatments!"
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "Jana C",
+   "text": "Alternative Cancer Treatment by ITC - Immunity Therapy Center Jul 05 2023 The ITC doctors, nurses, and staff were absolutely phenomenal. I was given specialized and personalized care not only for the three weeks I received therapy at their facility, but also in the months that followed as I continued home therapy. These people are in the business of caring for those with sickness and they do it with compassion and wisdom. Their confidence is encouraging and I have seen a complete turn around in my health."
+  },
+  {
+   "source_id": "price-list",
+   "source_type": "Price list",
+   "source_url": "https://www.placidway.com/price-list/5/Alternative-Cancer-Treatment-by-ITC-Immunity-Therapy-Center",
+   "page_title": "ITC Immunity Therapy Center Prices | Tijuana Cancer Care",
+   "section": "Chris P",
+   "text": "Alternative Cancer Treatment by ITC - Immunity Therapy Center Aug 09 2023"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Medical Center Reviews",
+   "text": "48 Reviews 6.5K $64 Price starting from Share this listing"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Quick Facts: Alternative Medicine Abroad",
+   "text": "Explore quick facts about alternative medicine abroad, including top global locations, average treatment costs, and estimated price ranges for international patients. Procedure Alternative Medicine Location Abroad Average Price (USD) $15032 Price Range (USD) $64 - $30000 Last Verified 2026-06-03"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "How Much Does a Alternative Medicine Cost Abroad?",
+   "text": "Discover the average cost of alternative medicine abroad. Review pricing for various holistic therapies, natural treatments, and integrative wellness procedures globally. | Procedure | Low | High | Typically Includes | Acupuncture Therapy Package | $200 | $800 | Varies by practitioner expertise | Ayurvedic Panchakarma (14 Days) | $800 | $2,500 | Depends on facility luxury level | Ozone Therapy Package | $500 | $1,500 | Varies by number of sessions | Alternative Stem Cell Therapy | $3,000 | $10,000 | Depends on cell type source | Naturopathic Wellness Retreat | $1,200 | $4,000 | Varies by location and inclusions Prices are starting estimates; final cost varies by clinic, surgeon experience, and patient anatomy. Always request a personalized quote."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Cost Breakdown by Component",
+   "text": "Understand the total cost breakdown for alternative medicine abroad. Review individual expenses like practitioner fees, therapy sessions, facility charges, and tests. | Component | Low (USD) | High (USD) | Notes | Initial Holistic Consultation | $50 | $250 | Complexity of patient health history | Core Treatment Sessions | $200 | $3,000 | Depends on therapy type selected | Biologics or Specialized IVs | $500 | $4,000 | Stem cells or specialized IVs | Herbal & Natural Supplements | $100 | $600 | Duration and rarity of supplements | Facility Fees / Accommodation | $500 | $2,500 | Outpatient clinic versus luxury retreat"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Which Clinics Abroad Offer the Best Alternative Medicine Packages?",
+   "text": "Compare top-rated international wellness clinics offering alternative medicine packages. Find specialized holistic centers providing comprehensive global treatment options. | Clinic / Surgeon | Standard | Procedure | Rating / Reviews | Action | Form Recovery & Wellness in Bangkok Thailand Bangkok, Thailand | $64 Modified date Sep 16, 2026 | Physiotherapy/Massage, Alternative Medicine | No reviews yet | | Fizikon Medical Center Konya, Turkey | $110 Modified date Jul 31, 2023 | Ozone Therapy, Alternative Medicine | ★★★★★ 5.0 (4) | | Stem Health Guadalajara Zapopan , Mexico | $1000 Modified date Mar 28, 2025 | Ozone Therapy, Alternative Medicine | ★★★★★ 5.0 (1) | | Wolistic Center - Aesthetic & Wellness Clinic in Istanbul Turkey Istanbul, Turkey | $1800 Modified date Nov 09, 2026 | Ozone Therapy, Alternative Medicine | ★★★★★ 5.0 (19) | | Wolistic Center - Aesthetic & Wellness Clinic in Istanbul Turkey Istanbul, Turkey | $2000 Modified date Nov 09, 2026 | Live Cell Therapy, Alternative Medicine | ★★★★★ 5.0 (19) | | VISANI® Stem Cells in Puebla, Mexico Mexico City, Mexico | $5500 Modified date Sep 22, 2024 | Live Cell Therapy, Alternative Medicine | ★★★★★ 5.0 (5) |"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "What Is Usually Included and Not Included in a Live Cell Therapy, Alternative Medicine Package?",
+   "text": "Learn exactly what is included and excluded in alternative medicine packages abroad. Clarify scope on therapy sessions, accommodation, meals, and diagnostic tests."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "✓ Typically Included",
+   "text": "These are the items most patients expect to see inside a standard alternative medicine package abroad. The exact clinic package can still vary, so users should confirm details in writing. Initial holistic health assessment Personalized alternative treatment plan Scheduled therapy sessions Prescribed natural or herbal supplements Specialized dietary meals (if residential) Mind-body wellness activities Post-treatment lifestyle coaching"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "✗ Often Not Included",
+   "text": "These are the items most patients expect to see inside a standard alternative medicine package abroad. The exact clinic package can still vary, so users should confirm details in writing. International flights and transfers Hotel accommodation (for outpatient clinics) Long-term supplement refills to take home Standard allopathic emergency care Travel and medical complications insurance"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "What Do Real Families Say About Live Cell Therapy, Alternative Medicine Abroad?",
+   "text": "Read verified reviews from real patients who traveled abroad for alternative medicine. Discover their wellness journeys, holistic outcomes, and clinical experiences. ★★★★★ 5 / 5 · 48 verified reviews \"(Translated by Google) An excellent center... (Original) Mukemmel bir merkez...\" - NİYAMƏDDİN ƏLİYEV (Verified by PlacidWay) \"\" - ömer faruk buz (Verified by PlacidWay) \"\" - Kübra Çakırmanoğlu (Verified by PlacidWay)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Frequently Asked Questions About Live Cell Therapy, Alternative Medicine Abroad",
+   "text": "Find answers to common questions about alternative medicine abroad. Explore essential details regarding holistic treatments, international safety, and therapy costs. How much does alternative medicine cost abroad compared to domestic prices? Patients can save 40% to 70% on alternative medicine abroad. Exact prices vary by country and therapy type. Traveling for care remains highly cost-effective. What types of alternative medicine treatments are available abroad? Popular treatments include acupuncture, Ayurveda, naturopathy, and stem cell therapy. International wellness centers offer diverse holistic healing options. Does health insurance cover the cost of alternative medicine abroad? Most domestic health insurance plans do not cover international alternative therapies. Patients usually pay out-of-pocket or use specialized medical travel plans. Why is holistic and alternative medicine cheaper abroad? Lower administrative expenses and reduced living costs make holistic care cheaper. The quality of care remains high despite the significantly lower price tag. Are alternative medicine practitioners abroad certified and safe? Yes, many international practitioners hold global certifications. Always verify their credentials and ensure the facility follows strict safety standards. What hidden costs should I expect when traveling abroad for alternative therapies? Factor in flights, accommodation, visas, and local transport. Some programs charge extra for post-treatment wellness supplements or extended consultations. Can I combine a vacation with alternative medicine treatments abroad? Yes, medical tourism often blends holistic healing with leisure travel. Many wellness retreats are located in popular tourist destinations for optimal recovery. How do I find affordable alternative medicine packages abroad in 2026? Compare comprehensive wellness packages that bundle therapies, meals, and lodging. Researching multiple international destinations helps secure the best rates. Are Ayurvedic treatment prices cheaper abroad? Authentic Ayurvedic treatments are significantly cheaper in their countries of origin. International packages often include daily therapies at a fraction of Western costs. Is it safe to travel internationally for alternative cancer treatments? Traveling for serious conditions requires thorough research. Always consult your primary doctor first and verify the international facility's medical safety record. Do alternative medicine retreats abroad offer payment plans? Many international wellness centers offer flexible payment plans or package discounts. Check directly with the facility about financing options before booking. What is the most cost-effective region for alternative medicine abroad? Asian and Latin American countries typically offer the lowest prices. Destinations in these regions are renowned for providing affordable, high-quality holistic care."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Ready to Explore Advanced Healthcare Options?",
+   "text": "Get a free, personalized quote from leading, board-certified specialists. No obligation our patient coordination team will reply within 24 hours. Get your quote now! Important Disclaimer PlacidWay.com provides medical travel information, not healthcare services . We don't endorse any providers, and we're not responsible for the care you receive. Pricing: Prices on our site are estimates only , provided by the centers. Always confirm actual prices directly with the provider before booking to ensure full transparency and avoid hidden fees. Your Health: Consult your local licensed healthcare provider before pursuing any treatment found on our site. Your health decisions are your responsibility."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Request your Free Quote",
+   "text": "I agree to the Terms of use , SMS & WhatsApp Policy , Privacy Policy and Cookie Policy Please validate your reCAPTCHA."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Trusted Medical Tourism Platform Since 2007",
+   "text": "60+ Countries 2k+ Clinics 19.5k+ Reviews 2.5k+ Qualified Doctors 1.1M+ Patients Served Since 2007"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Alternative Medicine Solutions Near You: Explore Top Medical Centers",
+   "text": "Discover how Alternative Medicine is transforming lives at leading medical centers in , . Dive into center profile, specialties, doctors, reviews, etc. and explore the best options tailored to your needs in this region."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Instituto de Terapia Celular - Stem Cell Guadalajara Mexico",
+   "text": "Tijuana,Guadalajara"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Poliklinika Labar",
+   "text": "(4 Reviews) Zadar,Croatia"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "EDNA Wellness - Surgeon-Led Stem Cell Clinic in Bangkok Thailand",
+   "text": "(59 Reviews) Bangkok,Thailand"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana",
+   "text": "(6 Reviews) Tijuana,Mexico"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Unlock the Best Alternative Medicine Packages Just for You",
+   "text": "Discover the ultimate Alternative Medicine packages designed to meet your health and wellness goals. Choose the perfect fit for your journey. Price starting from $4,500"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Local Treatment Course in Tbilisi, Georgia by Eliava",
+   "text": "Eliava Phage Therapy Center Alternative Medicine Tbilisi,Georgia Price starting from $24,000"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Integrative Cancer Treatment",
+   "text": "Verita Life Thailand - Cancer Treatment in Bangkok Alternative Medicine Bangkok,Thailand Price starting from $1,500"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Ozone Therapy Package at Wolistic Center - Aesthetic & Wellness Clinic in Istanbul Turkey, Istanbul, Turkey",
+   "text": "Wolistic Center - Aesthetic & Wellness Clinic in Istanbul Turkey Alternative Medicine Istanbul,Turkey Price starting from $10,000"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "EBOO Therapy Package in Gujarat, India by Dr. Pravin Patel",
+   "text": "Dr. Pravin Patel Innovative Hospital & Research Center Alternative Medicine Vadodara,India"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Explore Alternative Medicine: Stories, Testimonials, and Procedures",
+   "text": "Watch in-depth videos covering everything from Alternative Medicine success stories to detailed procedure explanations. Learn what to expect and hear from real patients."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Rebuilding Strength: Comprehensive Physiotherapy for Cancer Patients at Immunity Therapy Center Mexico",
+   "text": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Mexico"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Ozone Therapy for Chronic Pain in Ankara: Understanding the Clinical Approach at Bayındır Hospital",
+   "text": "ACIBADEM Bayındır Hospital Turkey"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Premium Home Care Medical Services at Liv Bona Dea Hospital in Baku, Azerbaijan – What’s Offered",
+   "text": "Liv Bona Dea Hospital in Baku, Azerbaijan Azerbaijan"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "IV Chelation Therapy for Heavy Metal Detoxification – Benefits and Process in Tijuana, Mexico",
+   "text": "ITC Immunity Therapy Center - Alternative Cancer Treatment in Tijuana Mexico"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Learn More with These Alternative Medicine Articles",
+   "text": "Take a look at these interesting articles, stories and research that will help you learn more about Alternative Medicine."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Third Upcoming International Summit on Medical Tourism in Puerto Vallarta",
+   "text": "PlacidWay Medical Tourism Alternative Medicine Mexico"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "PlacidWay Launches PlacidWellness, Expanding Global Wellness Tourism Through Alternative and Complementary Medicine",
+   "text": "PlacidWay Medical Tourism Alternative Medicine Mexico"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "90 days or less for medical tourism",
+   "text": "PlacidWay Medical Tourism Alternative Medicine Albania"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "5 Surprising Things International Patients Should Know About Puerto Vallarta’s Medical Tourism Industry",
+   "text": "PlacidWay Medical Tourism Mexico Messenger WhatsApp Email Free Call Accreditations & Certifications We collaborate with internationally accredited hospitals and clinics to ensure the highest standards of safety, quality, and patient care."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "JCI",
+   "text": "Joint Commission International"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "ISO",
+   "text": "International Organization for Standardization"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "COFEPRIS",
+   "text": "COFEPRIS (Federal Commission for Sanitary Risk Protection - Mexico)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "TURKEY MOH",
+   "text": "Turkey Ministry of Health"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "DHCC",
+   "text": "Dubai Healthcare City Authority (DHCC)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "NABH",
+   "text": "NABH (National Accreditation Board for Hospitals & Healthcare Providers - India)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "KOREA MOHW",
+   "text": "Korea Ministry of Health & Welfare (MOHW) View All Accreditations Vetted providers Trusted clinics across 60+ countries Free personalized quotes Compare prices and packages at no cost A guide at every step Real people helping since 2007 Get a free quote Call us Because every patient deserves a way forward. PlacidWay connects you to trusted, vetted healthcare across 60+ countries, with a human guide beside you at every step. Call toll free +1-888-296-6664 Email our team info@placidway.com"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "",
+   "text": "About Us PlacidMobile - Mobile Apps Contact PlacidWay Patient FAQs"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "News & Media",
+   "text": "PlacidWay Podcast PlacidWay News"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "",
+   "text": "Explore Experiences Find a Medical Center Find a Package Explore Treatment Pricing Find a Doctor Read Articles Watch Videos Learn about Treatments Explore Destinations Blog Reviews and Testimonials"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "",
+   "text": "List Your Center Partners Program Join Our Affiliate Program PlacidTracks - Provider Portal Provider FAQs"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Consulting & Solutions",
+   "text": "PlacidSolutions Consulting PlacidTracks Accelerator PlacidWay Search Anywhere"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "The PlacidWay Network",
+   "text": "Find PlacidWay in your language, your region or for your treatment."
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Language Sites 5",
+   "text": "DE Deutsch PlacidWay Medizintourismus RU Русский PlacidWay Медицинский Туризм ES Español Turismo Médico PlacidWay AR العربية PlacidWay السياحة الطبية RO Română Turism Medical PlacidWay (opens in a new tab)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Regional Hubs 2",
+   "text": "Gangnam Medical Tourism Seoul, South Korea Dental Tourism in Mexico Border dental clinics (opens in a new tab)"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Procedure Hubs 9",
+   "text": "Plastic Surgery Cosmetic surgery abroad (opens in a new tab) Dental Tourism Implants, crowns, veneers (opens in a new tab) Weight Loss Surgery Bariatric tourism (opens in a new tab) Fertility Tourism IVF and fertility care (opens in a new tab) Global Stem Cell Therapy Regenerative medicine (opens in a new tab) Orthopedic Surgery Knee, hip and joint care (opens in a new tab) Cancer Treatment Oncology care abroad (opens in a new tab) Addiction Treatment Recovery Programs (opens in a new tab) Wellness Tourism Wellness and alternative medicine PlacidCare For Patients PlacidTracks For Providers © PlacidWay, LLC 2007 - Present. All Rights Reserved Terms of use Privacy Policy Disclaimer Cookie Policy Sitemap"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "You're talking with PlacidWay",
+   "text": "We're here to help you 24/7 Call Now Hang Up 00:28 Your call is secure and confidential"
+  },
+  {
+   "source_id": "price-comparison",
+   "source_type": "Price comparison",
+   "source_url": "https://www.placidway.com/search-medical-pricings/Alternative-Medicine/All/1",
+   "page_title": "Alternative Medicine Cost Abroad - Compare Prices 2026",
+   "section": "Request a callback",
+   "text": "Provide info, PlacidWay calls at your time. Full name Email address Phone number Preferred treatment Select a specific procedure Where are you looking to travel for treatment? I agree to the Terms of use , SMS & WhatsApp Policy , Privacy Policy and Cookie Policy Name is required Your information is secure and confidential"
+  }
+ ]
+}
